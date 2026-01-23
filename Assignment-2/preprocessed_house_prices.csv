@@ -1,0 +1,2021 @@
+City,Neighborhood,Square_Footage,Num_Bedrooms,Num_Bathrooms,Year_Built,Garage_Size,Has_Pool,Distance_to_Center,Condition,Price
+Houston,Downtown,3589.0,2,1,1974,2,No,15.15,Excellent,813550.0
+Phoenix,Rural,4462.375,5,3,1979,2,Yes,12.52,Good,348800.0
+Chicago,Downtown,517.375,4,3,1960,2,No,21.12,Fair,114750.0
+Phoenix,Rural,2647.0,5,2,1966,3,No,27.17,Fair,458600.0
+Phoenix,Urban,2499.0,2,3,1975,3,Yes,24.25,Fair,673500.0
+Los Angeles,Suburb,3491.0,4,2,1972,1,Yes,8.6,Good,669500.0
+Chicago,Urban,2668.0,1,2,2005,0,No,26.43,Fair,435600.0
+Chicago,Suburb,2107.0,3,3,2001,1,Yes,25.09,Good,415900.0
+Chicago,Suburb,3146.0,2,2,1997,2,Yes,27.91,Fair,525000.0
+Phoenix,Suburb,1721.0,2,2,1969,1,Yes,14.03,Good,302900.0
+Houston,Urban,2881.0,2,2,1951,3,Yes,23.17,Good,484700.0
+Chicago,Suburb,2904.0,4,2,1980,2,No,17.95,Good,555300.0
+Phoenix,Urban,3348.0,1,3,1976,2,No,9.66,Good,558300.0
+Los Angeles,Downtown,2499.0,5,1,1951,0,Yes,29.84,Excellent,780000.0
+Houston,Rural,2814.0,1,1,1953,0,No,1.63,Good,464400.0
+Los Angeles,Rural,2093.0,4,2,1962,2,Yes,5.29,Fair,450200.0
+Houston,Suburb,2480.0,2,2,1984,2,Yes,26.83,Good,417100.0
+Phoenix,Urban,1085.0,3,2,2021,1,Yes,2.29,Excellent,295800.0
+New York,Rural,1944.0,2,1,2015,2,Yes,26.66,Fair,366100.0
+Houston,Urban,2173.0,5,2,1955,3,No,21.6,Fair,409000.0
+Los Angeles,Urban,2081.0,3,3,1980,1,Yes,1.58,Good,445700.0
+Phoenix,Suburb,2622.0,2,3,1959,3,No,13.16,Good,470800.0
+Houston,Rural,1842.0,3,3,1970,3,Yes,22.76,Good,349700.0
+New York,Suburb,3397.0,1,1,2023,3,No,17.7,Fair,589200.0
+New York,Suburb,2500.0,4,2,1972,2,No,28.11,Fair,457800.0
+Chicago,Rural,2493.0,2,2,1952,0,No,26.1,Excellent,415800.0
+Chicago,Rural,2238.0,5,2,1981,0,No,10.31,Poor,485800.0
+Los Angeles,Downtown,2624.0,1,1,1969,3,Yes,3.0,Poor,440300.0
+Houston,Downtown,3160.0,2,1,2023,2,No,28.36,Good,540400.0
+Houston,Urban,1806.0,1,1,1978,1,Yes,15.76,Excellent,317000.0
+Chicago,Rural,1974.0,5,1,2001,3,No,2.69,Good,442400.0
+Houston,Downtown,2257.0,2,3,1995,1,No,24.59,Excellent,423900.0
+Houston,Urban,1423.0,5,1,1983,1,No,26.12,Fair,324300.0
+New York,Urban,1845.0,3,1,2010,2,Yes,19.36,Fair,368000.0
+Chicago,Urban,2119.0,5,1,2021,2,No,13.7,Fair,441400.0
+Phoenix,Downtown,3200.0,3,2,2020,0,Yes,20.03,Excellent,576600.0
+Chicago,Rural,2710.0,2,2,2019,0,Yes,21.35,Good,488400.0
+Phoenix,Suburb,2655.0,3,2,1960,2,Yes,26.84,Poor,456400.0
+New York,Urban,3181.0,2,3,2012,3,No,28.7,Good,537600.0
+Los Angeles,Downtown,2390.0,2,3,1970,0,No,15.67,Fair,430900.0
+Houston,Downtown,2812.0,4,1,1952,1,No,24.06,Good,488000.0
+New York,Suburb,2417.0,2,2,1959,3,No,28.95,Excellent,369500.0
+Houston,Suburb,2712.0,3,3,1976,1,No,4.96,Fair,528200.0
+Los Angeles,Downtown,2034.0,4,2,1961,2,No,1.04,Fair,442000.0
+Los Angeles,Rural,549.0,4,3,1956,1,No,26.13,Fair,175300.0
+New York,Suburb,2393.0,2,3,1966,3,Yes,6.26,Fair,439600.0
+Los Angeles,Downtown,3638.0,5,1,2014,2,No,1.75,Fair,692000.0
+Phoenix,Suburb,3241.0,5,1,2013,3,Yes,5.22,Good,657500.0
+Los Angeles,Rural,3272.0,4,3,1975,1,Yes,11.83,Fair,603600.0
+Houston,Urban,3489.0,2,1,1964,3,No,6.97,Excellent,602200.0
+Houston,Suburb,2571.0,5,3,1982,2,No,9.5,Fair,531300.0
+Houston,Rural,2658.0,2,3,2011,1,Yes,29.27,Fair,485600.0
+Houston,Downtown,2006.0,2,2,1996,1,Yes,21.28,Fair,372500.0
+Phoenix,Suburb,2247.0,4,1,1984,0,No,21.51,Good,413800.0
+Chicago,Suburb,2993.0,4,1,2014,0,Yes,3.29,Good,555900.0
+New York,Downtown,3463.0,1,1,2021,3,Yes,22.1,Excellent,564700.0
+Houston,Urban,2388.0,5,2,1974,0,Yes,22.31,Good,471300.0
+Los Angeles,Downtown,2140.0,5,2,2006,0,Yes,19.96,Excellent,458300.0
+Houston,Suburb,2500.0,5,2,1981,0,No,7.24,Good,527100.0
+Los Angeles,Downtown,2981.0,3,1,2012,0,No,12.98,Poor,520500.0
+Los Angeles,Rural,1345.0,2,1,1961,2,Yes,25.47,Excellent,230200.0
+Houston,Downtown,663.0,4,1,2012,2,Yes,20.27,Excellent,209000.0
+Phoenix,Suburb,2060.0,5,2,1950,0,Yes,22.12,Excellent,418700.0
+Los Angeles,Downtown,1523.0,1,2,2000,3,No,17.83,Fair,262000.0
+Los Angeles,Urban,2093.0,5,3,2019,2,No,13.76,Good,496200.0
+Houston,Downtown,2382.0,2,2,1957,0,Yes,22.89,Fair,404500.0
+Los Angeles,Urban,2137.0,2,3,2017,2,Yes,2.5,Fair,455400.0
+Los Angeles,Rural,3662.0,4,1,1954,1,Yes,20.36,Good,605100.0
+Houston,Urban,2761.0,3,2,1988,2,No,29.92,Excellent,487700.0
+Houston,Downtown,2740.0,4,1,1972,2,Yes,23.52,Good,457100.0
+New York,Suburb,2998.0,5,1,2017,3,Yes,9.07,Excellent,580300.0
+Phoenix,Urban,1589.0,1,1,2001,2,Yes,8.7,Poor,313400.0
+Phoenix,Rural,3331.0,4,1,1953,3,Yes,20.18,Poor,579400.0
+Los Angeles,Urban,2439.0,3,2,1996,1,Yes,26.93,Good,442400.0
+Phoenix,Urban,3036.0,4,1,1970,0,No,17.55,Fair,552500.0
+Los Angeles,Urban,1643.0,2,3,2005,3,No,16.06,Excellent,355000.0
+New York,Rural,1257.0,5,2,2015,2,No,5.23,Fair,365000.0
+Houston,Downtown,3154.0,5,1,2008,2,Yes,21.61,Good,583600.0
+Houston,Urban,2801.0,5,2,1956,3,No,21.22,Good,510500.0
+Houston,Urban,1778.0,5,3,1998,1,Yes,29.03,Fair,380700.0
+Phoenix,Suburb,2499.0,5,1,1965,0,No,9.36,Excellent,408500.0
+New York,Rural,3400.0,5,3,1966,2,No,22.82,Good,611200.0
+Phoenix,Urban,1548.0,1,1,1983,1,Yes,13.3,Good,277500.0
+Phoenix,Rural,3814.0,3,3,1982,0,Yes,16.97,Excellent,679500.0
+New York,Urban,1780.0,5,1,1975,0,Yes,24.59,Fair,380300.0
+New York,Downtown,3011.0,3,2,2015,2,No,7.05,Excellent,580400.0
+New York,Downtown,2237.0,5,1,2012,3,Yes,10.61,Fair,467000.0
+New York,Urban,2983.0,4,2,1990,2,No,23.31,Fair,537700.0
+Houston,Downtown,2065.0,5,1,2007,2,No,17.33,Excellent,431500.0
+Chicago,Urban,2370.0,2,1,1959,2,No,3.23,Excellent,438500.0
+Chicago,Downtown,2533.0,1,3,1964,1,Yes,13.19,Fair,450700.0
+New York,Suburb,1698.0,4,3,1991,3,Yes,17.81,Good,361300.0
+Chicago,Suburb,2499.0,4,3,2006,1,Yes,27.33,Excellent,579500.0
+Chicago,Suburb,2089.0,2,1,1966,2,No,6.06,Fair,389600.0
+New York,Rural,2317.0,5,1,2009,3,No,24.28,Poor,452900.0
+Chicago,Rural,1705.0,1,1,1958,0,Yes,4.35,Good,266700.0
+Phoenix,Suburb,517.375,4,2,1985,3,No,7.65,Fair,189800.0
+Los Angeles,Rural,2347.0,1,2,2022,2,No,7.68,Fair,413400.0
+Los Angeles,Downtown,4430.0,4,1,1985,3,No,26.39,Excellent,712600.0
+New York,Urban,3128.0,5,3,1997,0,Yes,6.37,Poor,653900.0
+Houston,Urban,2485.0,4,3,2000,0,No,23.72,Excellent,526100.0
+New York,Urban,2290.0,4,3,2019,3,No,14.12,Good,508200.0
+Houston,Suburb,2518.0,3,1,2023,0,Yes,29.97,Good,403100.0
+Los Angeles,Rural,2938.0,5,3,2017,1,Yes,25.25,Good,579100.0
+New York,Downtown,1555.0,2,1,1971,3,Yes,22.32,Good,258300.0
+Phoenix,Downtown,3391.0,2,2,1955,0,Yes,26.19,Fair,519700.0
+Chicago,Suburb,3072.0,5,3,1975,0,Yes,19.2,Fair,599900.0
+Houston,Downtown,3075.0,2,2,1952,3,Yes,25.39,Good,491700.0
+Chicago,Downtown,2851.0,5,3,2001,1,No,8.2,Fair,577300.0
+Chicago,Downtown,2516.0,2,1,2023,3,No,3.38,Poor,444300.0
+New York,Downtown,3038.0,3,1,2009,0,No,18.67,Excellent,526700.0
+Chicago,Rural,2973.0,2,1,2012,3,No,13.32,Excellent,518400.0
+Phoenix,Downtown,2217.0,4,1,2014,0,Yes,13.08,Fair,444600.0
+Chicago,Urban,2499.0,5,3,2001,2,No,16.04,Poor,473500.0
+New York,Suburb,2581.0,1,2,1963,3,Yes,11.16,Good,439400.0
+Phoenix,Rural,3739.0,1,1,2021,3,Yes,18.97,Excellent,601200.0
+Los Angeles,Downtown,1509.0,5,3,2017,0,No,1.4,Fair,402800.0
+Chicago,Rural,2499.0,3,2,1977,0,No,29.11,Fair,230600.0
+New York,Downtown,2632.0,2,1,2020,0,Yes,27.78,Excellent,425900.0
+Los Angeles,Urban,2541.0,3,2,1959,0,Yes,28.09,Excellent,452800.0
+Los Angeles,Suburb,2639.0,1,1,2006,3,Yes,11.27,Good,462300.0
+Houston,Downtown,2695.0,5,2,2015,0,Yes,16.19,Fair,551700.0
+Phoenix,Downtown,2321.0,5,2,1999,3,No,28.65,Good,450900.0
+Chicago,Downtown,3692.0,3,1,1963,1,Yes,27.12,Good,612700.0
+New York,Downtown,1219.0,3,3,1965,3,No,23.81,Fair,245600.0
+Houston,Suburb,1837.0,2,2,2003,0,Yes,12.52,Fair,345000.0
+Phoenix,Suburb,2417.0,4,1,1992,0,Yes,17.15,Fair,455800.0
+Houston,Urban,1185.0,4,2,1991,1,Yes,23.89,Good,240700.0
+Phoenix,Suburb,2359.0,2,2,1971,3,No,8.55,Good,414700.0
+Phoenix,Downtown,3829.0,4,3,2017,1,Yes,18.98,Excellent,704300.0
+Chicago,Urban,2517.0,1,2,1968,3,No,24.92,Good,392800.0
+Phoenix,Urban,2685.0,4,2,2015,0,No,21.37,Excellent,500700.0
+Houston,Urban,1492.0,2,1,1988,3,No,14.64,Excellent,312100.0
+Phoenix,Downtown,2007.0,4,1,2022,0,Yes,17.75,Fair,430000.0
+Chicago,Rural,2200.0,5,3,1968,0,No,29.67,Fair,463400.0
+Chicago,Downtown,2246.0,3,2,1986,2,No,18.26,Good,409400.0
+Houston,Suburb,3525.0,1,2,2003,2,Yes,23.68,Poor,563600.0
+Los Angeles,Suburb,2946.0,5,2,1974,3,Yes,21.93,Excellent,577100.0
+Los Angeles,Downtown,1611.0,5,3,1967,0,No,21.19,Poor,367000.0
+Phoenix,Downtown,2697.0,2,2,1972,1,No,21.63,Fair,439400.0
+New York,Urban,2899.0,3,1,1960,0,Yes,13.91,Good,485200.0
+Phoenix,Downtown,3412.0,3,3,1988,1,No,14.49,Good,615000.0
+Houston,Urban,3764.0,1,1,2017,3,No,14.3,Good,617200.0
+Houston,Suburb,1688.0,2,1,1974,3,No,1.48,Good,331500.0
+Houston,Urban,1851.0,1,3,2012,1,Yes,7.61,Fair,368700.0
+Houston,Downtown,1494.0,4,1,1979,1,No,5.06,Fair,371600.0
+Houston,Suburb,2313.0,5,2,1994,0,Yes,26.65,Excellent,438400.0
+Chicago,Rural,2873.0,1,3,2010,3,Yes,8.61,Fair,531800.0
+Los Angeles,Urban,3290.0,5,1,2000,0,Yes,4.58,Fair,630200.0
+Houston,Suburb,2439.0,2,2,1958,1,No,4.03,Good,444200.0
+New York,Urban,2244.0,4,2,1951,2,Yes,21.15,Fair,431900.0
+New York,Suburb,2621.0,2,1,1954,2,No,0.68,Good,435000.0
+New York,Suburb,1832.0,4,2,2011,2,Yes,14.4,Good,385300.0
+New York,Urban,4172.0,4,3,2018,1,No,4.01,Good,787800.0
+Chicago,Rural,1214.0,5,1,1986,0,No,25.57,Good,306600.0
+New York,Suburb,2648.0,2,2,1954,3,No,28.77,Fair,446700.0
+Houston,Suburb,4119.0,2,2,2008,1,Yes,28.78,Good,691400.0
+Phoenix,Suburb,2505.0,1,1,1986,2,No,13.54,Poor,397300.0
+New York,Rural,2348.0,2,1,1958,0,No,19.51,Poor,369400.0
+Chicago,Rural,2214.0,1,1,1971,3,Yes,18.19,Good,339100.0
+Chicago,Downtown,2356.0,3,1,1976,3,Yes,10.83,Fair,431900.0
+New York,Urban,3598.0,3,3,1959,1,No,13.6,Good,607200.0
+Phoenix,Rural,731.0,3,1,2010,1,Yes,2.4,Good,239300.0
+New York,Urban,3727.0,2,3,2000,3,Yes,23.97,Excellent,604200.0
+Chicago,Downtown,1361.0,2,3,1959,3,Yes,7.6,Good,306900.0
+Los Angeles,Urban,2287.0,1,1,1955,2,No,14.09,Poor,378400.0
+Houston,Rural,2157.0,4,3,2011,3,Yes,14.68,Fair,446300.0
+Chicago,Urban,2971.0,1,1,1954,1,No,17.04,Fair,480500.0
+New York,Rural,1222.0,3,1,2019,0,Yes,24.63,Fair,251500.0
+Houston,Urban,2870.0,1,2,2012,2,Yes,20.91,Fair,473800.0
+New York,Rural,4119.0,4,1,2005,2,No,20.06,Poor,706900.0
+New York,Rural,1409.0,2,2,2008,3,Yes,16.04,Good,286200.0
+Los Angeles,Urban,2652.0,1,3,2012,0,Yes,3.33,Good,496500.0
+Houston,Downtown,1970.0,3,2,2008,2,Yes,12.36,Good,399500.0
+Houston,Suburb,2841.0,3,3,2000,1,Yes,28.74,Good,498300.0
+Los Angeles,Downtown,2515.0,2,1,1986,3,No,29.87,Good,400100.0
+Chicago,Urban,2499.0,1,3,1953,1,No,22.05,Good,324900.0
+New York,Downtown,2890.0,4,3,1997,3,No,7.21,Good,605700.0
+Phoenix,Rural,3943.0,2,1,1981,2,No,3.51,Poor,659400.0
+New York,Suburb,2347.0,1,3,2000,3,No,12.74,Good,420000.0
+New York,Urban,3076.0,5,1,2001,0,No,25.77,Good,586100.0
+Chicago,Urban,1465.0,3,2,2023,1,No,21.79,Fair,310800.0
+New York,Urban,1735.0,4,1,1983,0,Yes,26.57,Poor,318300.0
+Los Angeles,Suburb,2878.0,4,1,1985,1,No,18.67,Fair,503300.0
+Los Angeles,Rural,2499.0,4,3,2019,1,No,4.34,Good,695600.0
+Houston,Urban,2784.0,3,2,1992,3,No,3.89,Good,541900.0
+Phoenix,Downtown,2250.0,1,1,1965,2,Yes,1.92,Fair,362100.0
+New York,Urban,2499.0,2,2,2008,2,No,17.23,Fair,472600.0
+New York,Urban,1500.0,1,2,2002,0,No,7.67,Excellent,297300.0
+Chicago,Urban,2984.0,2,3,1968,3,No,22.16,Fair,503700.0
+Los Angeles,Urban,3206.0,4,1,1990,2,Yes,20.74,Fair,564000.0
+Phoenix,Rural,2138.0,1,3,1986,1,No,9.88,Fair,408900.0
+Houston,Downtown,2124.0,4,1,2003,1,Yes,5.72,Good,434600.0
+Los Angeles,Rural,2713.0,5,2,2004,3,Yes,3.52,Good,567000.0
+Houston,Downtown,2151.0,4,1,1968,0,Yes,22.25,Good,410900.0
+Chicago,Urban,2447.0,4,1,2011,3,Yes,13.79,Excellent,483200.0
+Chicago,Suburb,4180.0,2,2,2008,0,No,10.04,Good,700200.0
+New York,Rural,2302.0,5,2,2014,3,Yes,25.77,Poor,458100.0
+Phoenix,Suburb,2213.0,4,1,2017,1,Yes,18.01,Good,410700.0
+Houston,Rural,1982.0,4,3,1977,3,No,15.78,Poor,426500.0
+Los Angeles,Urban,3095.0,5,1,1967,2,Yes,22.43,Good,566700.0
+Chicago,Rural,2355.0,5,2,1975,2,Yes,24.56,Fair,445600.0
+New York,Urban,1981.0,1,3,1968,3,Yes,20.74,Good,377200.0
+New York,Rural,3557.0,2,2,2004,0,Yes,13.48,Fair,653200.0
+Houston,Urban,3636.0,5,2,2006,0,Yes,11.69,Excellent,693400.0
+Chicago,Urban,2020.0,5,3,1955,1,Yes,23.26,Fair,405000.0
+Phoenix,Downtown,1007.0,3,2,1950,1,No,15.78,Good,226600.0
+Chicago,Urban,3306.0,5,2,1957,0,No,21.28,Fair,587500.0
+Houston,Downtown,1952.0,2,2,2000,3,No,26.77,Excellent,361500.0
+Houston,Urban,2499.0,4,2,1974,1,No,27.52,Good,552400.0
+Chicago,Suburb,924.0,4,2,1996,0,Yes,8.69,Fair,270800.0
+Houston,Urban,3214.0,4,2,2004,0,Yes,6.04,Excellent,646400.0
+Chicago,Suburb,1531.0,4,2,2013,3,Yes,8.21,Fair,358400.0
+Los Angeles,Suburb,3085.0,3,2,1959,2,No,22.67,Good,516200.0
+Chicago,Urban,2511.0,5,2,2005,0,No,11.42,Good,537200.0
+Chicago,Suburb,1737.0,4,1,1961,1,Yes,5.61,Poor,356500.0
+Houston,Downtown,2174.0,1,1,1986,3,Yes,3.4,Excellent,407400.0
+Houston,Rural,3049.0,4,2,2020,3,No,10.16,Fair,610000.0
+New York,Urban,2585.0,5,1,1966,3,No,4.52,Fair,509100.0
+New York,Suburb,2968.0,4,3,2010,2,No,5.11,Excellent,575800.0
+Los Angeles,Urban,4081.0,3,1,1959,2,No,20.67,Good,641500.0
+New York,Downtown,1249.0,2,2,1980,1,Yes,1.08,Poor,276000.0
+Chicago,Urban,3794.0,2,2,2009,1,No,3.97,Fair,679700.0
+Houston,Urban,2583.0,5,1,2019,3,No,25.41,Good,515700.0
+New York,Suburb,1781.0,2,2,1966,1,Yes,25.42,Poor,304100.0
+New York,Downtown,2499.0,2,3,1999,0,Yes,10.21,Excellent,304100.0
+Los Angeles,Rural,2349.0,1,3,1986,2,Yes,3.09,Good,440100.0
+Los Angeles,Rural,3237.0,5,2,2011,3,No,21.3,Fair,616800.0
+Chicago,Suburb,2398.0,5,3,2021,3,No,11.12,Fair,550500.0
+Houston,Urban,3709.0,2,3,1978,0,No,1.84,Good,683400.0
+Los Angeles,Suburb,1339.0,2,1,1981,0,No,5.16,Fair,259000.0
+New York,Suburb,2490.0,2,3,1960,0,Yes,4.55,Good,474200.0
+Houston,Suburb,1498.0,3,1,1955,0,Yes,17.88,Excellent,266600.0
+Houston,Urban,2791.0,4,2,1984,3,No,26.99,Good,492300.0
+New York,Downtown,2499.0,3,1,1982,2,No,23.9,Good,553300.0
+Los Angeles,Suburb,2163.0,5,2,1967,2,No,16.62,Fair,439700.0
+New York,Urban,517.375,1,2,1986,0,Yes,12.95,Good,127200.0
+Houston,Downtown,2659.0,4,2,1962,1,No,18.75,Good,498400.0
+Phoenix,Suburb,2849.0,1,2,2023,3,Yes,13.59,Good,498500.0
+Phoenix,Rural,2823.0,5,2,2013,2,No,7.76,Poor,587400.0
+Chicago,Downtown,3489.0,5,1,1950,0,Yes,20.54,Excellent,613300.0
+New York,Suburb,1643.0,1,2,2012,1,Yes,26.26,Fair,270700.0
+New York,Downtown,3044.0,1,3,1983,1,No,11.5,Good,535400.0
+Chicago,Downtown,3454.0,1,3,1959,0,Yes,25.33,Good,539400.0
+Chicago,Downtown,1077.0,5,2,1956,3,Yes,13.22,Good,265100.0
+Chicago,Downtown,2756.0,2,3,2005,2,No,12.34,Fair,527000.0
+Houston,Downtown,2097.0,1,1,1986,1,Yes,1.34,Good,369000.0
+New York,Downtown,2435.0,4,1,1978,2,No,21.01,Poor,461900.0
+Houston,Suburb,2778.0,5,2,1961,2,Yes,24.32,Good,533000.0
+Chicago,Rural,2110.0,3,2,1966,1,Yes,20.07,Poor,380200.0
+New York,Urban,2499.0,3,2,1986,0,Yes,4.97,Fair,426400.0
+Houston,Downtown,2499.0,4,3,1975,1,Yes,3.55,Fair,516600.0
+Houston,Urban,1630.0,2,3,1961,1,No,17.4,Excellent,312200.0
+Chicago,Suburb,1631.0,1,1,1970,3,No,12.34,Good,285400.0
+New York,Downtown,3043.0,5,3,1991,2,No,13.16,Good,639200.0
+Chicago,Rural,1581.0,1,1,2010,0,Yes,29.05,Good,271200.0
+New York,Urban,3033.0,5,3,2007,2,Yes,21.86,Excellent,596900.0
+Phoenix,Downtown,2870.0,3,1,2003,1,No,12.65,Fair,521200.0
+Los Angeles,Suburb,1119.0,1,2,1983,0,No,1.06,Good,221500.0
+Los Angeles,Rural,1958.0,4,3,1956,0,No,1.51,Good,446800.0
+Los Angeles,Urban,3455.0,2,1,1984,0,No,20.7,Poor,575300.0
+Chicago,Urban,1715.0,4,3,1964,0,Yes,25.21,Fair,356100.0
+Phoenix,Downtown,2128.0,2,2,2014,3,No,21.38,Fair,402200.0
+New York,Rural,2870.0,1,1,1974,0,Yes,12.47,Poor,435200.0
+Houston,Rural,3127.0,1,3,2008,1,No,1.42,Fair,557000.0
+New York,Rural,2299.0,2,3,1955,3,Yes,29.04,Poor,414300.0
+Houston,Rural,2022.0,3,2,2001,1,No,29.6,Good,368700.0
+New York,Suburb,3638.0,5,2,1970,1,No,16.71,Fair,676600.0
+Phoenix,Rural,3891.0,4,1,2020,2,Yes,2.58,Fair,710300.0
+Houston,Urban,3283.0,4,3,1981,0,Yes,16.46,Excellent,606400.0
+Chicago,Urban,2499.0,4,3,2002,0,No,26.82,Good,523400.0
+New York,Suburb,1853.0,1,2,2008,1,Yes,20.56,Fair,326500.0
+New York,Urban,1836.0,4,2,2018,0,No,21.74,Good,396800.0
+Houston,Urban,2918.0,5,1,2011,3,Yes,3.01,Fair,592100.0
+Chicago,Rural,2835.0,5,3,1953,2,No,3.64,Poor,581200.0
+Chicago,Urban,3621.0,2,3,1967,0,No,4.26,Poor,644300.0
+Phoenix,Suburb,3020.0,1,1,2005,0,No,27.18,Excellent,444500.0
+Chicago,Rural,1298.0,5,1,1973,3,No,16.01,Good,309300.0
+Chicago,Downtown,3342.0,3,2,2015,2,No,23.85,Good,581000.0
+Chicago,Rural,1702.0,1,2,1986,3,No,3.9,Excellent,343200.0
+Los Angeles,Suburb,2193.0,1,1,2011,1,No,27.87,Excellent,340100.0
+Phoenix,Rural,2700.0,5,1,2003,1,No,24.72,Good,503000.0
+New York,Rural,4097.0,3,3,1964,0,Yes,7.13,Good,762000.0
+Houston,Suburb,4462.375,2,1,2018,2,Yes,26.29,Fair,808500.0
+New York,Rural,2985.0,5,1,1952,1,Yes,8.27,Fair,545500.0
+Phoenix,Suburb,2353.0,3,3,1986,3,No,6.56,Good,478500.0
+Houston,Suburb,2928.0,1,1,1986,1,No,8.3,Good,470300.0
+Phoenix,Downtown,3210.0,3,2,1952,1,No,27.34,Excellent,534700.0
+Chicago,Urban,2243.0,1,2,2012,3,Yes,27.51,Good,363400.0
+Houston,Urban,3936.0,5,3,1984,0,Yes,10.21,Good,773000.0
+Chicago,Rural,2684.0,5,1,2001,2,Yes,21.31,Good,519800.0
+New York,Rural,2898.0,4,2,1977,0,Yes,20.43,Fair,538300.0
+New York,Downtown,3033.0,4,2,1967,3,Yes,24.29,Good,552100.0
+Houston,Downtown,2837.0,4,2,1985,1,No,9.25,Good,563500.0
+Houston,Downtown,3171.0,5,2,1982,2,Yes,15.55,Good,593200.0
+Phoenix,Suburb,2006.0,2,1,2013,0,No,20.2,Good,361400.0
+Phoenix,Downtown,2053.0,5,1,1975,3,No,1.27,Fair,439200.0
+Chicago,Downtown,1620.0,3,1,1997,1,No,11.61,Good,362700.0
+Houston,Rural,2852.0,5,1,1989,1,Yes,21.03,Good,499000.0
+New York,Downtown,3123.0,5,2,1966,0,Yes,7.95,Good,594900.0
+Phoenix,Suburb,2866.0,1,3,1989,3,No,28.75,Good,468700.0
+Phoenix,Suburb,3840.0,1,3,1956,1,Yes,1.39,Poor,656300.0
+New York,Rural,2496.0,1,2,2006,1,Yes,28.76,Fair,409600.0
+Phoenix,Downtown,3035.0,5,2,1957,2,No,6.89,Fair,587300.0
+Chicago,Downtown,1627.0,2,3,2005,1,No,1.94,Good,363200.0
+Houston,Suburb,2190.0,3,3,1980,0,No,9.13,Good,446900.0
+New York,Downtown,2499.0,3,2,2008,3,No,23.7,Excellent,549900.0
+Houston,Downtown,3179.0,2,2,2007,3,No,22.7,Fair,569800.0
+Phoenix,Downtown,2265.0,2,1,1961,2,Yes,6.66,Poor,426700.0
+Phoenix,Urban,2443.0,3,1,1997,3,No,6.31,Good,469800.0
+New York,Rural,1286.0,4,3,1980,0,Yes,19.46,Good,299500.0
+Chicago,Urban,2214.0,1,2,2012,1,Yes,14.01,Good,391700.0
+Los Angeles,Rural,3212.0,1,3,2023,2,No,23.87,Excellent,528800.0
+New York,Suburb,2960.0,3,1,1988,3,No,1.21,Excellent,562900.0
+Los Angeles,Downtown,2901.0,2,1,1969,2,Yes,18.51,Fair,475000.0
+Los Angeles,Rural,2540.0,4,3,1997,2,No,22.05,Excellent,505000.0
+Chicago,Urban,2506.0,3,1,2020,3,Yes,29.8,Fair,444300.0
+Los Angeles,Downtown,1972.0,1,2,2003,2,No,20.52,Good,333800.0
+Los Angeles,Suburb,3059.0,5,3,2020,3,No,7.34,Good,624900.0
+Chicago,Rural,2499.0,2,2,1978,0,Yes,3.69,Good,508400.0
+Los Angeles,Rural,2894.0,5,2,2023,3,Yes,19.41,Fair,582100.0
+Los Angeles,Rural,2079.0,3,1,2022,1,No,15.93,Fair,402800.0
+Los Angeles,Downtown,777.0,1,2,1997,3,No,27.02,Good,122500.0
+New York,Urban,3378.0,4,3,2023,1,No,21.93,Fair,622000.0
+New York,Urban,2117.0,5,2,2005,2,Yes,15.54,Poor,453000.0
+New York,Rural,1810.0,4,2,1966,3,No,12.41,Good,377200.0
+Chicago,Suburb,3055.0,1,2,1958,1,No,12.43,Good,508100.0
+Phoenix,Suburb,2186.0,5,2,1983,3,No,7.18,Good,473600.0
+Los Angeles,Urban,3348.0,4,2,1994,3,No,1.01,Fair,639700.0
+Los Angeles,Suburb,2994.0,4,1,1958,3,Yes,17.46,Excellent,520200.0
+Chicago,Urban,3047.0,5,3,1956,0,Yes,6.77,Fair,607500.0
+Los Angeles,Rural,1407.0,1,1,1965,1,Yes,6.65,Excellent,259500.0
+New York,Urban,3470.0,4,3,1968,0,No,4.2,Good,654200.0
+Phoenix,Urban,2709.0,3,3,1955,0,No,6.09,Good,498500.0
+Houston,Rural,2205.0,5,3,1960,1,No,1.44,Excellent,489400.0
+Los Angeles,Suburb,2615.0,2,3,2010,3,Yes,20.39,Fair,469700.0
+New York,Urban,1079.0,2,3,1991,0,Yes,12.34,Fair,260000.0
+Houston,Urban,2827.0,1,2,1962,0,Yes,17.06,Good,481100.0
+Phoenix,Rural,1677.0,3,1,1961,0,Yes,19.29,Fair,286200.0
+Houston,Suburb,1418.0,4,1,2023,3,No,29.19,Good,316100.0
+New York,Urban,1282.0,2,2,1969,0,Yes,2.51,Fair,286800.0
+Houston,Rural,3390.0,1,3,1999,2,Yes,12.83,Excellent,601900.0
+Chicago,Urban,1997.0,3,1,1985,1,No,7.75,Good,383000.0
+Houston,Downtown,3727.0,3,2,2018,2,Yes,14.56,Poor,645200.0
+Los Angeles,Rural,2071.0,1,2,1986,3,No,27.65,Excellent,339000.0
+Los Angeles,Suburb,1134.0,1,1,1961,0,No,21.86,Fair,200900.0
+Chicago,Suburb,1607.0,4,1,1989,1,No,20.03,Fair,312600.0
+New York,Suburb,3489.0,1,3,2003,0,No,13.52,Fair,587200.0
+Los Angeles,Suburb,2375.0,4,3,1951,3,No,20.3,Good,463000.0
+Phoenix,Urban,2061.0,4,1,1999,1,Yes,1.46,Good,431000.0
+Los Angeles,Urban,2628.0,5,3,1990,2,Yes,17.79,Good,561600.0
+Los Angeles,Suburb,2499.0,3,2,1994,1,No,16.84,Fair,536300.0
+New York,Suburb,3394.0,3,3,1958,0,Yes,10.73,Excellent,598900.0
+Houston,Suburb,3659.0,3,3,2011,1,No,6.44,Good,676000.0
+Los Angeles,Urban,2212.0,5,2,1996,3,Yes,24.32,Fair,441300.0
+Chicago,Suburb,1439.0,4,3,1954,3,Yes,2.09,Good,351000.0
+Houston,Suburb,2169.0,4,2,1950,1,Yes,2.56,Good,447800.0
+Phoenix,Downtown,2708.0,1,3,1993,3,Yes,13.5,Fair,482200.0
+New York,Downtown,1729.0,5,1,1971,3,Yes,7.95,Fair,365100.0
+Phoenix,Suburb,1734.0,1,3,1987,3,Yes,22.49,Poor,325100.0
+Houston,Rural,2775.0,5,1,1968,2,Yes,19.21,Excellent,510500.0
+Houston,Suburb,2461.0,1,1,1980,0,No,23.29,Good,371700.0
+Houston,Downtown,2526.0,2,1,2016,3,No,10.08,Fair,452800.0
+Phoenix,Rural,1893.0,3,1,1991,1,No,22.35,Fair,363000.0
+Houston,Rural,2316.0,3,1,1975,3,Yes,25.94,Good,398900.0
+Phoenix,Suburb,1761.0,4,2,1962,2,Yes,10.69,Good,375900.0
+Houston,Downtown,3212.0,2,2,2007,1,No,10.53,Good,554700.0
+Chicago,Downtown,3328.0,3,2,1967,0,No,27.05,Excellent,558600.0
+Houston,Rural,1023.0,4,1,2016,1,Yes,1.97,Good,305500.0
+Phoenix,Suburb,1756.0,2,3,1952,1,No,10.83,Good,313700.0
+Los Angeles,Urban,1303.0,3,2,2004,1,No,4.0,Fair,311600.0
+Houston,Urban,1980.0,1,3,2007,1,No,1.35,Excellent,410100.0
+Los Angeles,Downtown,2433.0,5,3,2012,3,No,3.83,Fair,548700.0
+Chicago,Urban,1340.0,2,1,2001,0,Yes,13.22,Fair,252800.0
+New York,Downtown,1763.0,4,1,1973,3,No,20.77,Good,348400.0
+Chicago,Downtown,1697.0,2,1,2021,2,No,9.03,Poor,322500.0
+Houston,Downtown,2666.0,4,2,1958,2,No,25.57,Fair,462700.0
+Los Angeles,Urban,2555.0,2,1,1986,1,No,13.41,Good,431000.0
+Los Angeles,Downtown,1923.0,4,2,2002,3,Yes,29.06,Fair,402500.0
+Phoenix,Rural,2641.0,3,2,1973,3,No,28.65,Fair,428300.0
+Los Angeles,Suburb,2499.0,1,2,1970,0,No,23.31,Good,311900.0
+Phoenix,Suburb,2283.0,3,2,1989,0,No,28.01,Good,413200.0
+New York,Downtown,3839.0,1,1,2011,0,No,21.36,Fair,613200.0
+Houston,Suburb,3572.0,3,2,2019,3,No,26.92,Excellent,612400.0
+Phoenix,Urban,1460.0,3,1,2018,0,Yes,7.48,Poor,326200.0
+New York,Urban,3164.0,2,1,1963,0,No,10.69,Good,511800.0
+Los Angeles,Suburb,3149.0,5,2,1991,0,No,22.71,Poor,591800.0
+Los Angeles,Urban,1581.0,4,1,1999,1,Yes,13.02,Good,346800.0
+New York,Suburb,3155.0,4,3,2010,2,No,25.2,Fair,609100.0
+Los Angeles,Suburb,2499.0,4,1,1953,2,Yes,26.39,Fair,644800.0
+New York,Suburb,1602.0,1,1,2021,3,No,9.34,Fair,301100.0
+Phoenix,Downtown,1766.0,4,2,1966,3,Yes,24.79,Good,327200.0
+Phoenix,Suburb,3314.0,4,2,1986,1,Yes,5.05,Good,643800.0
+New York,Downtown,2717.0,2,1,1997,2,No,10.36,Fair,476300.0
+Phoenix,Suburb,2941.0,3,2,1993,0,Yes,15.78,Excellent,531400.0
+Phoenix,Suburb,2772.0,4,3,1994,0,No,7.18,Fair,537300.0
+Phoenix,Suburb,2813.0,5,3,1982,3,Yes,17.59,Good,562200.0
+Chicago,Urban,1439.0,4,2,1980,2,Yes,17.57,Fair,325100.0
+Houston,Downtown,3338.0,1,1,1996,3,No,6.6,Good,573400.0
+Los Angeles,Downtown,3436.0,1,3,1955,3,Yes,23.97,Good,540400.0
+Chicago,Suburb,2499.0,1,3,2021,0,No,19.13,Good,410300.0
+Phoenix,Suburb,2465.0,4,1,2020,0,Yes,9.87,Fair,485300.0
+New York,Urban,1275.0,2,2,1983,2,Yes,7.35,Fair,290100.0
+Phoenix,Urban,2911.0,5,3,2002,3,No,26.42,Good,588600.0
+Houston,Urban,2499.0,4,1,1963,1,No,25.15,Fair,524700.0
+Phoenix,Downtown,2450.0,2,1,1965,2,Yes,7.28,Fair,438200.0
+New York,Downtown,3399.0,2,3,1992,3,No,1.55,Fair,625300.0
+Houston,Downtown,2233.0,4,2,2022,2,No,24.23,Fair,447300.0
+Phoenix,Suburb,2952.0,4,3,2023,2,Yes,18.66,Fair,584000.0
+Houston,Downtown,1684.0,2,1,1961,2,Yes,3.48,Excellent,315400.0
+Los Angeles,Rural,2481.0,2,3,2019,1,No,17.83,Good,482300.0
+Los Angeles,Rural,2361.0,2,2,1968,1,Yes,13.84,Good,393700.0
+Phoenix,Urban,2680.0,4,1,1990,0,No,23.35,Fair,461300.0
+Houston,Downtown,2204.0,2,2,2002,0,No,6.67,Good,401400.0
+New York,Rural,2395.0,1,3,1978,3,No,13.87,Good,411500.0
+Phoenix,Urban,3161.0,4,3,2019,2,No,5.11,Good,656600.0
+Los Angeles,Downtown,2151.0,1,2,2008,3,No,28.75,Poor,339300.0
+Los Angeles,Suburb,1215.0,3,3,2013,0,No,23.47,Excellent,267500.0
+Phoenix,Rural,3900.0,4,2,1973,1,Yes,22.23,Good,662700.0
+Houston,Suburb,3605.0,3,3,1965,0,No,20.86,Excellent,641100.0
+Los Angeles,Downtown,1466.0,2,2,2001,3,Yes,12.99,Poor,323900.0
+Houston,Rural,3052.0,2,2,1955,0,No,27.74,Fair,503000.0
+Los Angeles,Downtown,2098.0,5,1,1986,3,Yes,2.65,Fair,471600.0
+Los Angeles,Suburb,2711.0,2,1,1953,3,Yes,24.2,Good,452500.0
+Chicago,Rural,2735.0,3,2,1987,3,Yes,6.85,Fair,491100.0
+Los Angeles,Suburb,2312.0,2,3,1990,3,No,10.06,Excellent,426300.0
+New York,Downtown,1873.0,4,3,1963,0,Yes,15.82,Excellent,383300.0
+Phoenix,Downtown,1948.0,2,3,2020,3,Yes,23.59,Good,379600.0
+Phoenix,Suburb,1767.0,5,2,2000,3,No,25.24,Good,384100.0
+Houston,Rural,1835.0,2,2,2014,2,Yes,17.72,Good,356600.0
+Los Angeles,Suburb,2446.0,3,2,2001,3,Yes,12.39,Good,483100.0
+New York,Downtown,1927.0,3,2,1979,0,No,28.42,Fair,320900.0
+Houston,Suburb,3046.0,2,1,2006,3,Yes,7.77,Good,535300.0
+Chicago,Downtown,3690.0,3,2,1979,1,Yes,24.19,Excellent,626600.0
+Houston,Suburb,2499.0,3,3,1991,1,No,18.56,Fair,401900.0
+Houston,Rural,2692.0,5,1,1960,3,Yes,11.62,Excellent,516400.0
+Los Angeles,Rural,2900.0,4,3,1986,1,Yes,0.54,Poor,600300.0
+Chicago,Suburb,2878.0,5,2,1973,1,Yes,13.67,Fair,559800.0
+Houston,Suburb,2499.0,1,1,1988,0,Yes,8.66,Fair,465900.0
+New York,Rural,3094.0,5,2,2021,2,No,3.58,Fair,649700.0
+New York,Downtown,2886.0,2,1,1967,1,No,2.72,Excellent,508000.0
+Phoenix,Rural,1510.0,4,3,1994,1,No,10.75,Excellent,372600.0
+Chicago,Downtown,3195.0,2,2,1961,2,No,18.64,Good,541600.0
+Chicago,Suburb,3210.0,1,2,1998,2,Yes,25.21,Excellent,543400.0
+Phoenix,Suburb,1889.0,4,1,1980,1,No,5.92,Fair,412100.0
+Houston,Downtown,2530.0,3,1,1971,3,No,13.03,Fair,459700.0
+Chicago,Suburb,3047.0,5,2,1993,1,Yes,12.06,Good,586500.0
+New York,Downtown,2333.0,2,1,2013,3,Yes,15.65,Excellent,424400.0
+New York,Urban,3358.0,1,2,1974,3,Yes,24.38,Poor,538600.0
+Los Angeles,Rural,2499.0,3,1,2000,3,No,16.83,Excellent,749700.0
+Chicago,Urban,1871.0,5,3,1956,2,Yes,25.48,Good,379700.0
+Houston,Downtown,1395.0,3,1,1955,1,Yes,15.8,Excellent,279200.0
+Phoenix,Rural,2743.0,5,3,1973,1,Yes,18.31,Fair,556300.0
+Phoenix,Downtown,3077.0,4,1,1986,0,No,13.4,Good,533600.0
+Houston,Rural,2315.0,3,1,1958,2,No,24.78,Good,371700.0
+Los Angeles,Rural,3663.0,3,2,1985,0,No,27.75,Good,631200.0
+Phoenix,Rural,1429.0,3,1,1989,0,No,19.35,Fair,270300.0
+Chicago,Rural,3054.0,4,1,1973,3,No,24.71,Excellent,551200.0
+Los Angeles,Downtown,2015.0,1,3,1997,2,No,2.24,Excellent,395100.0
+Chicago,Rural,3876.0,5,1,2012,0,No,27.23,Poor,691700.0
+New York,Rural,4094.0,3,2,2018,1,Yes,6.07,Fair,744000.0
+Los Angeles,Urban,1887.0,4,3,2002,0,Yes,8.07,Good,420200.0
+Phoenix,Suburb,2060.0,1,2,2003,2,Yes,2.07,Good,415200.0
+Los Angeles,Suburb,3188.0,5,2,1991,1,No,28.98,Good,579600.0
+Los Angeles,Urban,2190.0,4,2,1994,1,No,25.63,Poor,423100.0
+Los Angeles,Urban,2464.0,5,2,1963,1,Yes,27.44,Good,434500.0
+Los Angeles,Downtown,2520.0,3,3,1986,3,Yes,25.49,Good,439000.0
+Chicago,Downtown,964.0,1,1,1955,1,No,14.65,Fair,182700.0
+New York,Downtown,2489.0,4,2,1956,3,No,27.76,Good,443700.0
+Houston,Urban,1948.0,1,3,1986,3,No,29.1,Fair,321200.0
+Los Angeles,Urban,2106.0,3,2,2002,0,No,15.33,Fair,405700.0
+Phoenix,Rural,3655.0,1,1,1967,0,No,5.68,Good,601600.0
+Los Angeles,Downtown,1495.0,1,3,1987,1,No,19.93,Excellent,299800.0
+Phoenix,Downtown,3151.0,2,3,2008,2,No,29.28,Fair,532700.0
+Chicago,Downtown,2277.0,1,1,1950,1,No,26.23,Fair,353500.0
+Phoenix,Suburb,2276.0,5,3,2017,0,Yes,25.92,Fair,478700.0
+Houston,Rural,3132.0,4,1,1993,1,No,28.05,Fair,550700.0
+New York,Downtown,2772.0,2,3,1996,0,No,26.87,Good,456400.0
+Phoenix,Downtown,2956.0,4,3,1984,1,No,23.4,Good,527500.0
+Phoenix,Downtown,3275.0,4,1,2009,2,Yes,21.69,Poor,597700.0
+New York,Suburb,2235.0,3,1,2001,1,Yes,8.31,Excellent,436300.0
+Houston,Suburb,2010.0,3,3,1957,2,No,18.83,Poor,391400.0
+Los Angeles,Urban,1632.0,2,3,1990,2,Yes,15.88,Excellent,314900.0
+Phoenix,Rural,2499.0,3,1,1952,1,Yes,25.93,Excellent,306800.0
+New York,Urban,4462.375,3,1,2018,2,Yes,15.01,Good,795700.0
+Chicago,Rural,3496.0,3,3,1963,2,No,4.27,Fair,627600.0
+New York,Suburb,1419.0,4,3,1975,0,No,0.65,Good,361700.0
+Chicago,Downtown,1442.0,2,3,2019,0,No,20.5,Good,312700.0
+Houston,Urban,2885.0,4,1,2007,2,No,16.72,Excellent,525100.0
+Los Angeles,Downtown,2938.0,5,3,1989,3,No,10.26,Good,606000.0
+New York,Urban,2939.0,4,2,2000,1,No,5.48,Good,577300.0
+Phoenix,Suburb,2296.0,5,1,1954,2,No,14.27,Excellent,442500.0
+Houston,Suburb,2499.0,1,3,1981,1,Yes,3.46,Excellent,447800.0
+New York,Suburb,2762.0,1,1,1950,0,No,10.42,Good,473000.0
+Phoenix,Urban,2569.0,5,2,2003,1,No,11.69,Excellent,529100.0
+New York,Rural,2499.0,5,1,1960,2,No,14.24,Good,227600.0
+Chicago,Urban,2316.0,4,3,2002,2,No,14.27,Good,491100.0
+New York,Rural,1819.0,5,2,1957,2,No,8.08,Good,399500.0
+New York,Urban,2640.0,2,2,1974,2,No,25.58,Good,416600.0
+New York,Urban,4462.375,1,3,1989,3,No,10.99,Fair,799300.0
+Houston,Suburb,2794.0,1,3,1981,3,No,7.27,Good,499200.0
+New York,Downtown,2249.0,5,3,1977,3,Yes,5.69,Good,495900.0
+Phoenix,Downtown,3237.0,3,1,1952,2,Yes,10.02,Fair,574000.0
+Chicago,Rural,2886.0,3,1,2011,3,No,2.49,Fair,535400.0
+Chicago,Downtown,2836.0,5,1,1976,1,No,1.47,Good,561300.0
+New York,Urban,2985.0,2,3,1994,2,Yes,18.35,Good,539100.0
+Houston,Urban,4145.0,3,3,1974,0,No,18.76,Fair,710100.0
+Houston,Suburb,1595.0,5,1,2010,2,No,16.12,Excellent,379600.0
+Phoenix,Suburb,2879.0,2,2,1993,1,Yes,22.99,Excellent,474100.0
+New York,Downtown,1759.0,2,1,1995,3,No,1.65,Good,328300.0
+Chicago,Rural,2944.0,4,2,1963,2,No,28.11,Fair,510600.0
+Houston,Downtown,1765.0,2,3,1957,3,No,3.3,Excellent,358600.0
+New York,Downtown,2166.0,3,3,1997,2,Yes,20.38,Excellent,428900.0
+Houston,Downtown,2264.0,3,1,1963,1,Yes,4.44,Fair,427300.0
+Houston,Downtown,3281.0,5,1,2014,2,No,26.46,Poor,593100.0
+Chicago,Urban,3235.0,5,3,1956,3,Yes,15.57,Good,592500.0
+Los Angeles,Rural,1503.0,2,1,1998,3,Yes,2.93,Good,309800.0
+Phoenix,Urban,2544.0,1,3,2004,1,Yes,18.69,Fair,433600.0
+Phoenix,Rural,1932.0,4,3,1962,2,No,0.77,Good,433300.0
+Chicago,Suburb,1493.0,1,2,2022,0,Yes,23.39,Good,259600.0
+Houston,Downtown,2326.0,2,1,2005,2,Yes,19.69,Excellent,410700.0
+New York,Urban,2253.0,2,3,2005,1,Yes,6.77,Good,474900.0
+Houston,Rural,4441.0,1,1,1964,0,No,11.56,Good,687100.0
+Chicago,Suburb,2846.0,4,2,2006,1,Yes,0.73,Excellent,557500.0
+Phoenix,Suburb,1398.0,1,2,2007,2,Yes,20.96,Fair,276400.0
+Houston,Downtown,2048.0,5,1,1984,0,No,10.02,Fair,458700.0
+Phoenix,Rural,3317.0,3,1,1965,1,Yes,17.36,Good,539600.0
+New York,Urban,4171.0,5,3,1957,3,Yes,28.72,Fair,728300.0
+Phoenix,Downtown,1231.0,3,2,1994,0,Yes,9.33,Excellent,298300.0
+Phoenix,Urban,996.0,2,2,1989,0,No,29.71,Poor,188600.0
+Los Angeles,Suburb,3997.0,4,2,2003,1,No,19.17,Fair,684400.0
+Los Angeles,Urban,2812.0,1,1,1963,3,Yes,7.64,Excellent,440400.0
+Los Angeles,Urban,1805.0,4,3,2008,0,Yes,13.38,Good,392000.0
+Phoenix,Downtown,2928.0,1,1,2002,1,Yes,22.34,Good,452900.0
+Chicago,Urban,517.375,5,1,1976,0,Yes,13.67,Fair,173600.0
+Phoenix,Downtown,2503.0,5,1,1996,0,Yes,2.52,Fair,537900.0
+Chicago,Suburb,2762.0,1,3,1955,0,Yes,5.47,Excellent,463500.0
+Chicago,Downtown,3239.0,4,1,2004,3,No,23.84,Fair,561400.0
+Los Angeles,Downtown,1689.0,1,2,1993,2,Yes,19.63,Good,281900.0
+Houston,Rural,2569.0,2,2,1967,2,Yes,17.31,Poor,446600.0
+New York,Urban,1760.0,5,2,1965,3,Yes,5.44,Fair,391300.0
+Los Angeles,Suburb,2704.0,2,3,1961,3,No,25.21,Good,443500.0
+Los Angeles,Downtown,1784.0,5,1,1969,1,Yes,28.84,Excellent,323500.0
+Houston,Suburb,2499.0,5,3,1994,0,No,1.71,Good,523100.0
+New York,Rural,1703.0,3,1,2013,3,Yes,2.8,Good,402200.0
+Phoenix,Urban,3021.0,2,2,2008,1,Yes,26.6,Good,513200.0
+Phoenix,Downtown,3187.0,2,1,1971,2,Yes,24.56,Good,529700.0
+Los Angeles,Urban,2312.0,3,1,1996,2,Yes,18.73,Good,411800.0
+New York,Rural,2531.0,4,1,1978,2,Yes,28.38,Fair,444900.0
+Los Angeles,Rural,1341.0,2,3,1994,2,Yes,19.57,Fair,291800.0
+Chicago,Suburb,2260.0,1,1,1958,1,No,6.87,Excellent,366000.0
+Los Angeles,Downtown,2460.0,3,1,1973,0,Yes,21.99,Poor,422100.0
+Los Angeles,Suburb,4462.375,2,1,1964,1,Yes,19.55,Fair,721200.0
+Phoenix,Rural,1610.0,4,3,1985,0,Yes,29.58,Good,344400.0
+Phoenix,Urban,3671.0,2,3,1962,2,No,6.81,Good,642000.0
+Phoenix,Suburb,3297.0,5,3,1993,3,Yes,18.14,Good,626900.0
+Chicago,Suburb,2725.0,1,1,2020,3,No,23.51,Fair,440200.0
+Phoenix,Urban,3907.0,3,2,2021,3,Yes,10.5,Excellent,720300.0
+New York,Suburb,2798.0,5,2,1985,0,Yes,11.7,Good,565000.0
+Houston,Urban,2811.0,4,2,2010,2,No,26.69,Excellent,528200.0
+New York,Downtown,2458.0,5,1,1986,1,No,12.42,Poor,525200.0
+New York,Urban,3479.0,5,2,1976,3,Yes,18.93,Fair,623000.0
+Phoenix,Downtown,3377.0,4,2,1950,0,No,26.73,Fair,586700.0
+Houston,Urban,1999.0,5,2,1983,3,No,6.69,Fair,446800.0
+Houston,Rural,1445.0,3,1,2017,1,Yes,29.47,Poor,284500.0
+Houston,Rural,2338.0,2,2,1970,2,Yes,21.21,Fair,404000.0
+Chicago,Downtown,1860.0,5,2,1982,1,Yes,15.14,Good,397200.0
+Phoenix,Downtown,2449.0,3,1,1986,2,No,13.21,Good,416400.0
+Houston,Rural,3490.0,2,3,2014,2,Yes,28.65,Good,596200.0
+Chicago,Downtown,2134.0,2,2,1952,2,Yes,6.57,Poor,379200.0
+Los Angeles,Urban,2466.0,5,3,2000,3,No,9.69,Good,528000.0
+Los Angeles,Urban,2546.0,3,2,2003,1,No,9.58,Fair,504200.0
+Chicago,Rural,3179.0,5,1,2023,3,Yes,9.03,Good,604900.0
+Chicago,Suburb,2499.0,4,3,2008,1,No,14.32,Good,240800.0
+Phoenix,Urban,2015.0,2,3,1955,0,No,29.68,Good,359200.0
+Phoenix,Downtown,2669.0,5,3,1978,0,No,26.72,Excellent,511300.0
+Los Angeles,Suburb,3460.0,2,3,1966,1,Yes,10.17,Excellent,626700.0
+Houston,Suburb,2106.0,3,2,2009,1,Yes,12.97,Good,399200.0
+Los Angeles,Urban,999.0,1,2,1971,1,Yes,20.25,Excellent,210100.0
+Houston,Urban,2996.0,5,3,1973,1,No,1.01,Good,617100.0
+Houston,Suburb,1992.0,5,2,2000,2,Yes,24.69,Excellent,397500.0
+Phoenix,Suburb,1548.0,2,3,1999,3,Yes,26.45,Good,314300.0
+New York,Rural,2001.0,3,3,1960,2,No,25.79,Good,378000.0
+New York,Downtown,2499.0,4,1,2005,3,No,11.56,Good,485900.0
+Chicago,Rural,2016.0,3,3,2020,3,Yes,14.13,Poor,404100.0
+Phoenix,Urban,736.0,5,2,1991,3,No,0.87,Good,255700.0
+Houston,Rural,3218.0,4,3,1988,2,Yes,12.28,Excellent,626700.0
+New York,Rural,3520.0,3,1,2018,1,Yes,14.08,Good,660100.0
+Houston,Rural,3021.0,1,2,1997,2,Yes,27.26,Poor,493800.0
+New York,Rural,1590.0,2,1,2006,2,No,26.87,Fair,291700.0
+New York,Downtown,2339.0,3,1,1986,3,No,29.0,Excellent,379400.0
+New York,Downtown,2495.0,3,3,1969,0,Yes,26.61,Excellent,445800.0
+Phoenix,Suburb,2979.0,1,1,1964,0,Yes,0.74,Fair,491100.0
+Los Angeles,Urban,3035.0,5,1,2018,2,Yes,19.42,Excellent,585900.0
+Houston,Rural,1913.0,2,2,2000,3,Yes,2.51,Excellent,403900.0
+Phoenix,Suburb,2566.0,3,1,2011,2,No,8.54,Fair,489100.0
+Phoenix,Suburb,2866.0,4,3,1986,2,Yes,17.56,Excellent,562700.0
+Phoenix,Suburb,3665.0,3,3,1955,1,Yes,21.17,Fair,627500.0
+Phoenix,Downtown,3064.0,2,3,2020,3,No,19.81,Good,572800.0
+Phoenix,Rural,3131.0,3,1,1975,0,Yes,1.95,Good,553300.0
+Chicago,Rural,2567.0,1,2,1957,0,Yes,3.56,Good,465700.0
+Houston,Urban,3628.0,3,3,2022,0,Yes,4.29,Good,678900.0
+Phoenix,Rural,2828.0,3,1,1953,2,Yes,3.2,Good,507500.0
+Houston,Rural,1811.0,4,3,1970,3,Yes,5.76,Excellent,390200.0
+Chicago,Suburb,3623.0,1,3,1980,1,No,20.81,Excellent,602400.0
+Chicago,Urban,3058.0,1,2,1970,0,No,25.01,Good,483700.0
+Houston,Rural,2146.0,3,3,1974,3,No,12.56,Good,437900.0
+New York,Downtown,2116.0,4,2,1964,0,No,20.94,Poor,379500.0
+Los Angeles,Rural,2737.0,3,1,1984,1,Yes,6.4,Good,504800.0
+New York,Suburb,2871.0,3,3,1998,3,No,29.21,Excellent,520300.0
+New York,Downtown,2658.0,2,1,1992,2,No,10.82,Fair,451200.0
+New York,Suburb,2749.0,2,1,1990,2,No,25.45,Excellent,457400.0
+Phoenix,Rural,3860.0,4,1,1986,0,No,28.39,Excellent,613800.0
+Chicago,Downtown,2499.0,5,3,2006,0,No,26.01,Good,635600.0
+New York,Urban,2653.0,2,2,1991,3,No,2.48,Good,517700.0
+Chicago,Urban,3253.0,5,3,1996,1,No,19.68,Good,627500.0
+Houston,Downtown,1674.0,1,1,2010,0,No,4.04,Good,310200.0
+Los Angeles,Downtown,2818.0,2,2,1963,3,Yes,0.67,Good,509900.0
+Houston,Suburb,3947.0,2,1,2017,1,No,2.03,Excellent,691000.0
+Houston,Downtown,2326.0,4,2,2002,0,Yes,27.53,Good,456300.0
+Phoenix,Suburb,1822.0,5,3,1983,0,No,27.3,Good,395100.0
+Los Angeles,Rural,1978.0,2,2,1986,3,No,7.16,Good,388300.0
+Houston,Suburb,1628.0,2,3,1969,0,No,16.64,Poor,319800.0
+Houston,Downtown,1872.0,4,1,2018,2,Yes,28.67,Poor,354200.0
+Los Angeles,Downtown,2204.0,4,2,1979,1,Yes,15.15,Excellent,416800.0
+Los Angeles,Rural,1376.0,5,1,1956,1,No,12.11,Fair,318800.0
+Houston,Downtown,2499.0,1,2,1985,2,Yes,14.76,Good,390700.0
+Los Angeles,Downtown,3222.0,1,3,1987,3,No,23.81,Good,505700.0
+Houston,Urban,2499.0,3,2,2001,2,Yes,14.58,Poor,344500.0
+Houston,Urban,3715.0,2,2,1964,2,Yes,23.61,Poor,610700.0
+Phoenix,Rural,2499.0,5,3,1995,1,Yes,13.24,Excellent,568000.0
+New York,Suburb,3324.0,2,3,1972,3,No,7.93,Good,598800.0
+Houston,Urban,1974.0,5,3,1961,0,Yes,10.13,Good,423900.0
+Chicago,Suburb,3184.0,5,2,1986,2,Yes,2.8,Excellent,634300.0
+New York,Downtown,1626.0,5,1,1964,2,No,15.17,Fair,347600.0
+New York,Urban,3212.0,2,2,1998,3,Yes,4.87,Fair,576600.0
+New York,Rural,2637.0,4,2,1970,2,No,24.44,Good,470000.0
+Phoenix,Rural,2943.0,2,1,1964,3,No,12.91,Good,467100.0
+Houston,Rural,1560.0,5,3,1963,0,Yes,23.07,Good,352800.0
+Phoenix,Urban,1784.0,3,2,1991,3,No,28.66,Excellent,342100.0
+Houston,Suburb,2978.0,1,1,1964,0,Yes,25.56,Excellent,460800.0
+Phoenix,Downtown,1741.0,5,3,2012,3,Yes,28.57,Poor,394200.0
+Phoenix,Suburb,2499.0,3,3,2017,2,No,17.25,Fair,551500.0
+Chicago,Suburb,1406.0,4,2,1976,0,Yes,5.38,Excellent,324600.0
+Phoenix,Downtown,3179.0,5,3,2002,2,Yes,28.09,Fair,611400.0
+Los Angeles,Downtown,1514.0,3,3,2001,0,No,26.12,Poor,324600.0
+Chicago,Urban,2942.0,5,1,2012,3,No,26.0,Good,543800.0
+Phoenix,Urban,3001.0,2,1,1986,3,Yes,20.95,Good,513000.0
+New York,Urban,1943.0,3,3,2002,3,No,18.94,Good,397200.0
+Los Angeles,Urban,2966.0,2,1,1986,1,No,0.93,Fair,545900.0
+Los Angeles,Urban,2708.0,2,3,2001,1,No,22.57,Good,461400.0
+Los Angeles,Downtown,2069.0,3,2,1992,0,No,3.2,Good,404500.0
+Chicago,Suburb,1693.0,1,1,1956,1,Yes,8.16,Fair,266000.0
+Phoenix,Urban,930.0,3,3,1991,3,Yes,16.77,Fair,237800.0
+Phoenix,Urban,2780.0,1,3,1953,1,No,13.83,Good,475700.0
+New York,Suburb,1248.0,5,1,2018,1,Yes,0.97,Excellent,313600.0
+New York,Urban,2576.0,5,1,1954,2,No,24.81,Excellent,468200.0
+Los Angeles,Suburb,2289.0,3,2,1990,0,No,26.42,Fair,431400.0
+New York,Suburb,3043.0,5,3,1953,0,Yes,20.62,Good,578800.0
+Chicago,Downtown,2258.0,4,2,1951,0,Yes,16.46,Good,399000.0
+Phoenix,Rural,2236.0,2,2,2016,1,Yes,28.84,Excellent,401500.0
+Los Angeles,Downtown,3085.0,2,2,1970,3,Yes,4.04,Good,551300.0
+New York,Rural,2768.0,1,1,2019,2,No,22.27,Poor,448000.0
+Chicago,Rural,2753.0,5,2,1992,0,No,4.29,Good,571100.0
+Chicago,Rural,2875.0,1,1,2018,1,Yes,11.76,Fair,468800.0
+New York,Urban,1272.0,2,1,1958,3,No,17.77,Fair,228000.0
+Phoenix,Downtown,3105.0,2,2,1977,2,Yes,22.24,Good,524900.0
+New York,Rural,2990.0,5,2,1975,2,Yes,0.61,Excellent,592400.0
+Los Angeles,Suburb,1687.0,4,3,1952,0,Yes,8.19,Fair,368600.0
+New York,Urban,2305.0,4,2,2022,0,No,16.38,Good,463500.0
+Chicago,Downtown,2469.0,5,3,1998,3,No,16.22,Fair,512800.0
+New York,Rural,2392.0,5,2,1966,1,Yes,19.31,Excellent,458700.0
+Phoenix,Suburb,2499.0,1,2,2012,3,Yes,9.46,Good,478600.0
+Houston,Downtown,3645.0,5,2,2004,0,Yes,16.45,Fair,691600.0
+New York,Downtown,3365.0,4,2,1972,3,Yes,6.1,Fair,600400.0
+Phoenix,Urban,1450.0,5,3,1983,1,No,6.01,Good,382700.0
+Phoenix,Downtown,2998.0,1,3,2018,2,No,17.51,Fair,534400.0
+Chicago,Urban,3563.0,1,2,1964,2,Yes,20.72,Poor,542700.0
+Phoenix,Rural,2809.0,1,2,1996,2,Yes,4.05,Good,498100.0
+Phoenix,Urban,3373.0,1,3,1952,2,No,4.12,Good,563000.0
+Phoenix,Suburb,4110.0,3,1,1977,0,Yes,17.18,Good,700700.0
+Phoenix,Urban,3319.0,5,1,1952,0,No,8.47,Fair,606800.0
+Los Angeles,Suburb,2699.0,2,1,1953,1,No,12.08,Good,472300.0
+Los Angeles,Urban,3336.0,5,3,1980,1,Yes,12.32,Good,668600.0
+Chicago,Downtown,2616.0,3,3,1994,1,No,5.77,Poor,525500.0
+New York,Rural,2519.0,1,1,2008,1,No,0.54,Good,485900.0
+Phoenix,Suburb,2219.0,3,1,1994,3,No,25.67,Poor,367900.0
+New York,Urban,2499.0,4,2,1986,1,No,21.59,Excellent,682200.0
+New York,Urban,1845.0,4,3,2014,2,Yes,20.87,Good,401000.0
+Chicago,Urban,3726.0,5,3,1958,2,No,16.62,Good,685800.0
+Phoenix,Downtown,2900.0,5,1,1966,2,No,21.18,Fair,521700.0
+Phoenix,Downtown,1381.0,2,1,2014,3,No,28.1,Fair,229200.0
+Houston,Suburb,2794.0,2,3,1952,1,Yes,20.14,Good,486400.0
+New York,Suburb,820.0,4,2,1975,2,Yes,8.32,Good,223200.0
+New York,Downtown,3000.0,1,1,2002,2,Yes,17.33,Fair,480500.0
+Los Angeles,Suburb,3208.0,3,3,1980,2,No,13.55,Poor,578900.0
+Houston,Rural,2026.0,2,3,1975,2,Yes,16.91,Fair,395500.0
+Los Angeles,Rural,2599.0,2,2,1972,0,Yes,15.77,Good,451200.0
+Los Angeles,Downtown,4063.0,1,2,1979,1,Yes,25.83,Fair,598600.0
+Los Angeles,Suburb,2095.0,1,1,1959,1,No,19.73,Good,313800.0
+Chicago,Urban,1653.0,5,1,2021,3,Yes,6.07,Fair,375900.0
+Chicago,Rural,3685.0,3,1,2013,0,Yes,2.36,Good,675100.0
+Los Angeles,Downtown,4070.0,1,3,1971,3,Yes,13.02,Fair,655200.0
+Houston,Suburb,2503.0,2,1,1986,2,No,0.96,Good,439400.0
+New York,Downtown,3309.0,2,3,2005,3,No,9.89,Poor,628300.0
+Houston,Urban,3573.0,4,1,2023,2,Yes,11.36,Fair,667300.0
+Phoenix,Rural,1906.0,1,2,1969,2,Yes,11.58,Good,317800.0
+Chicago,Downtown,2112.0,5,2,1996,1,Yes,29.39,Fair,436400.0
+New York,Downtown,2499.0,3,3,2002,1,No,9.47,Fair,637000.0
+New York,Downtown,3848.0,5,2,2002,1,No,8.32,Excellent,741900.0
+Phoenix,Urban,2950.0,2,3,1950,1,Yes,4.32,Excellent,525700.0
+Phoenix,Downtown,1796.0,5,3,1951,1,No,15.57,Fair,382400.0
+Los Angeles,Urban,4090.0,2,2,2007,0,Yes,5.03,Excellent,699100.0
+Chicago,Urban,2075.0,2,3,1968,1,No,18.68,Good,385200.0
+Chicago,Urban,2232.0,2,2,2011,3,Yes,5.08,Fair,451800.0
+Houston,Rural,2774.0,2,1,2021,2,No,17.51,Excellent,490200.0
+Los Angeles,Rural,2499.0,2,1,1961,1,Yes,24.87,Excellent,578700.0
+Los Angeles,Downtown,3183.0,4,2,1975,0,No,1.75,Excellent,582500.0
+Los Angeles,Downtown,2832.0,5,2,1976,3,Yes,12.88,Fair,545400.0
+Los Angeles,Rural,2871.0,4,2,1978,3,Yes,14.1,Fair,520700.0
+Chicago,Suburb,2535.0,4,2,1964,2,Yes,23.84,Good,483100.0
+Chicago,Rural,2947.0,1,1,1995,3,Yes,14.3,Good,478000.0
+Los Angeles,Urban,517.375,1,3,1950,3,No,17.24,Fair,119400.0
+Houston,Rural,2263.0,1,3,2009,3,Yes,23.84,Excellent,394100.0
+New York,Urban,2693.0,3,1,2006,3,No,17.01,Good,492400.0
+New York,Downtown,1579.0,1,3,1952,0,No,11.07,Good,304500.0
+Houston,Suburb,2499.0,5,1,1967,2,Yes,3.03,Good,586700.0
+Los Angeles,Downtown,2336.0,4,3,2001,1,Yes,22.03,Good,463000.0
+Chicago,Urban,3904.0,5,2,2009,3,Yes,26.2,Poor,721300.0
+New York,Urban,3758.0,1,2,1983,0,Yes,29.12,Excellent,589100.0
+Phoenix,Urban,2127.0,3,2,2009,2,No,27.83,Fair,387200.0
+Phoenix,Suburb,2379.0,3,1,1975,1,No,24.02,Poor,401700.0
+Houston,Rural,2441.0,4,1,2021,2,No,19.48,Excellent,477800.0
+Los Angeles,Downtown,2139.0,5,3,1968,0,No,23.55,Excellent,436300.0
+New York,Downtown,2656.0,2,3,1971,0,Yes,13.25,Excellent,482000.0
+Los Angeles,Rural,1893.0,5,3,1982,0,No,18.05,Excellent,431800.0
+New York,Downtown,1596.0,1,1,1986,3,Yes,10.79,Good,321700.0
+Houston,Suburb,2998.0,2,3,1984,0,Yes,10.14,Excellent,544900.0
+Houston,Downtown,2499.0,3,2,2016,1,No,22.82,Poor,524000.0
+Phoenix,Urban,1857.0,4,3,1959,3,No,13.89,Good,399200.0
+Los Angeles,Rural,3216.0,4,2,1964,2,No,6.76,Good,591600.0
+Phoenix,Suburb,1995.0,3,1,1960,1,No,6.46,Poor,407700.0
+Los Angeles,Rural,2703.0,1,2,1973,3,No,25.85,Good,420800.0
+Phoenix,Suburb,3156.0,3,2,1953,0,No,20.49,Good,537200.0
+Chicago,Urban,2473.0,1,2,1962,2,Yes,16.61,Good,416100.0
+Chicago,Rural,2864.0,2,1,2022,0,Yes,12.33,Poor,516300.0
+Chicago,Downtown,2499.0,3,1,2006,1,Yes,13.21,Excellent,423500.0
+Chicago,Suburb,2343.0,1,1,1986,1,No,2.19,Fair,423100.0
+New York,Rural,2335.0,2,1,1997,3,Yes,13.92,Good,449100.0
+Chicago,Downtown,1903.0,3,3,2020,1,Yes,23.97,Excellent,397300.0
+Houston,Rural,2359.0,4,1,1950,2,Yes,11.95,Good,457400.0
+Houston,Rural,1261.0,3,2,1986,3,Yes,11.82,Fair,291000.0
+New York,Rural,2107.0,5,1,1961,2,Yes,0.96,Poor,477300.0
+Chicago,Suburb,2272.0,3,3,1970,0,Yes,14.01,Good,435600.0
+Chicago,Downtown,2295.0,5,3,1960,2,No,1.25,Excellent,527000.0
+Chicago,Urban,2307.0,2,3,1993,2,No,17.33,Excellent,444300.0
+Phoenix,Suburb,2451.0,3,2,2007,1,No,15.45,Good,469300.0
+Los Angeles,Suburb,2884.0,2,1,1993,0,Yes,25.28,Fair,494000.0
+Phoenix,Suburb,3200.0,2,1,1983,1,No,17.66,Fair,529000.0
+Los Angeles,Urban,1980.0,1,1,1974,0,No,10.04,Fair,357400.0
+Chicago,Downtown,1537.0,2,2,1953,0,Yes,15.73,Fair,289300.0
+Chicago,Downtown,1666.0,2,2,2013,2,No,21.14,Fair,316500.0
+Phoenix,Downtown,2110.0,3,3,1965,1,Yes,3.27,Fair,440300.0
+Phoenix,Rural,2218.0,3,3,1959,2,No,18.82,Good,418100.0
+Los Angeles,Rural,1884.0,4,1,2015,2,Yes,27.54,Fair,361400.0
+Houston,Rural,1463.0,1,2,1984,2,Yes,9.32,Good,284300.0
+Los Angeles,Urban,2499.0,2,2,1955,0,No,18.99,Excellent,373800.0
+Phoenix,Rural,2645.0,1,1,1968,1,Yes,24.73,Good,367500.0
+Phoenix,Urban,2976.0,5,1,2008,1,No,15.6,Good,579700.0
+New York,Downtown,2054.0,2,3,2002,2,Yes,21.68,Good,399900.0
+Phoenix,Rural,2170.0,1,3,1957,0,No,9.67,Fair,409400.0
+New York,Rural,1759.0,4,3,1959,1,No,9.53,Poor,368700.0
+Houston,Suburb,2475.0,4,1,2016,3,Yes,20.19,Poor,456600.0
+Los Angeles,Urban,1821.0,2,1,1987,1,No,21.31,Fair,320200.0
+Los Angeles,Downtown,2959.0,5,3,1978,2,No,28.14,Good,548900.0
+New York,Suburb,1071.0,4,3,1964,3,No,7.13,Excellent,273500.0
+Los Angeles,Suburb,2212.0,4,2,1972,0,Yes,14.31,Excellent,431000.0
+Phoenix,Downtown,2741.0,5,2,1995,3,Yes,7.89,Poor,555500.0
+Chicago,Suburb,2499.0,1,3,1977,3,No,2.86,Excellent,467600.0
+New York,Urban,4462.375,4,3,1975,2,No,12.4,Fair,808500.0
+Los Angeles,Urban,2780.0,3,2,1959,1,Yes,11.54,Excellent,499600.0
+New York,Rural,2499.0,4,3,1996,0,Yes,8.48,Fair,376900.0
+New York,Suburb,2424.0,1,2,1953,3,No,9.26,Poor,387600.0
+Chicago,Rural,1079.0,1,2,1986,2,Yes,11.13,Fair,230700.0
+Phoenix,Suburb,2436.0,2,2,2015,1,Yes,29.67,Excellent,444100.0
+New York,Urban,1834.0,3,1,2016,3,No,23.6,Fair,359900.0
+Los Angeles,Urban,3232.0,1,1,1956,2,Yes,2.61,Fair,548900.0
+Houston,Urban,2060.0,5,3,1986,2,Yes,26.24,Excellent,414400.0
+New York,Suburb,2407.0,3,2,1986,2,Yes,19.18,Excellent,419600.0
+New York,Urban,1992.0,3,1,2023,0,No,26.77,Poor,369900.0
+Chicago,Suburb,3891.0,5,3,1968,1,Yes,10.58,Good,742000.0
+Phoenix,Rural,2243.0,4,3,1977,3,No,14.2,Fair,469100.0
+Houston,Suburb,3966.0,5,3,1977,1,Yes,26.94,Fair,692400.0
+Los Angeles,Rural,3151.0,5,3,1968,1,Yes,8.54,Good,639600.0
+Houston,Suburb,2886.0,4,3,1969,3,No,27.51,Good,524200.0
+Los Angeles,Rural,2795.0,4,2,1962,1,No,24.94,Good,510000.0
+Phoenix,Urban,2815.0,4,3,1992,0,No,29.43,Good,513300.0
+Los Angeles,Rural,958.0,4,2,1960,3,No,10.07,Good,228400.0
+Chicago,Urban,2277.0,4,1,1997,3,Yes,7.45,Good,470800.0
+Chicago,Urban,3176.0,5,3,1964,2,No,10.26,Good,627900.0
+Chicago,Rural,2461.0,2,1,1966,1,No,28.66,Good,369100.0
+Chicago,Suburb,1376.0,2,2,2003,3,No,10.33,Fair,285200.0
+Houston,Suburb,2458.0,1,2,1999,3,Yes,17.17,Good,432200.0
+Phoenix,Downtown,3863.0,2,1,1977,0,Yes,12.41,Good,639200.0
+Los Angeles,Suburb,3498.0,2,3,1953,2,No,12.19,Good,607300.0
+Los Angeles,Downtown,2450.0,5,3,1971,3,No,6.2,Good,515700.0
+Chicago,Suburb,3261.0,4,1,1988,0,No,16.34,Fair,604800.0
+Chicago,Suburb,2207.0,4,1,1983,3,No,25.56,Good,402800.0
+New York,Urban,2499.0,5,1,1993,3,Yes,1.96,Fair,280600.0
+Phoenix,Downtown,1760.0,2,3,1991,3,No,26.73,Excellent,330600.0
+Houston,Suburb,3750.0,5,3,1989,0,Yes,20.13,Good,708800.0
+Los Angeles,Downtown,2281.0,1,3,1961,1,No,18.69,Fair,392700.0
+New York,Urban,2305.0,4,1,1951,3,No,18.96,Good,409900.0
+New York,Urban,2260.0,3,3,1977,3,Yes,9.24,Excellent,422700.0
+Los Angeles,Downtown,4023.0,1,2,2023,1,No,12.75,Fair,667700.0
+Houston,Urban,3801.0,1,1,2016,3,No,24.08,Good,594700.0
+New York,Rural,4275.0,5,3,2020,2,No,9.54,Good,805300.0
+New York,Rural,2373.0,2,1,2021,3,No,14.37,Good,439900.0
+Phoenix,Urban,2736.0,4,2,1959,2,Yes,1.08,Fair,530700.0
+Houston,Rural,1287.0,3,2,2006,1,No,22.14,Good,300500.0
+New York,Suburb,3682.0,1,1,1986,0,No,12.82,Excellent,589300.0
+Houston,Downtown,1566.0,3,1,2013,1,Yes,16.0,Excellent,340600.0
+Los Angeles,Suburb,2673.0,2,2,1989,3,No,3.88,Good,498900.0
+Chicago,Downtown,1622.0,2,1,2009,2,Yes,29.76,Excellent,285200.0
+New York,Urban,2029.0,3,2,1997,0,No,9.42,Good,401800.0
+Phoenix,Suburb,1830.0,4,2,1968,3,No,19.23,Good,347800.0
+Los Angeles,Urban,2014.0,2,3,1986,0,No,17.65,Good,399200.0
+Houston,Urban,2069.0,3,1,1982,0,Yes,23.66,Fair,392300.0
+Los Angeles,Downtown,2061.0,1,1,1993,3,Yes,9.17,Good,353400.0
+New York,Downtown,3167.0,3,3,1986,1,No,22.8,Good,556200.0
+Houston,Downtown,1616.0,3,2,1985,3,Yes,11.78,Excellent,336800.0
+Chicago,Suburb,2676.0,5,1,1970,3,No,12.63,Good,540700.0
+Los Angeles,Rural,3474.0,2,3,1951,1,Yes,20.35,Good,590700.0
+New York,Downtown,2089.0,4,3,1980,2,No,23.64,Fair,437300.0
+Phoenix,Downtown,1926.0,4,1,1979,3,Yes,20.17,Fair,341400.0
+Houston,Suburb,2316.0,5,3,1993,0,No,27.05,Fair,460400.0
+Los Angeles,Downtown,3444.0,4,2,1961,3,Yes,8.91,Good,615400.0
+Los Angeles,Suburb,2655.0,3,3,1986,3,Yes,27.07,Fair,504200.0
+Chicago,Urban,2075.0,5,2,1998,0,Yes,4.36,Good,479400.0
+Chicago,Downtown,2887.0,1,2,1973,1,Yes,19.96,Fair,483500.0
+Phoenix,Downtown,1618.0,2,1,1986,2,No,16.66,Good,260700.0
+Phoenix,Urban,3045.0,2,3,2009,2,No,15.09,Excellent,570700.0
+New York,Urban,2827.0,2,2,1960,0,Yes,9.67,Good,502600.0
+New York,Urban,2254.0,3,2,1962,1,No,15.36,Fair,402500.0
+Phoenix,Downtown,1829.0,1,3,2021,3,Yes,5.27,Good,374400.0
+Phoenix,Rural,1791.0,5,2,2023,3,No,11.39,Fair,412000.0
+Houston,Rural,2928.0,5,3,2021,3,Yes,3.41,Fair,624400.0
+Chicago,Rural,3483.0,2,1,2013,3,No,17.37,Fair,594000.0
+New York,Downtown,1990.0,1,2,1969,3,No,3.33,Fair,385400.0
+Chicago,Urban,2867.0,1,2,2021,0,Yes,5.23,Fair,504000.0
+Chicago,Downtown,830.0,1,3,2022,3,Yes,3.02,Fair,225400.0
+Phoenix,Urban,2032.0,4,3,2020,3,Yes,11.75,Fair,437800.0
+Houston,Downtown,2475.0,4,3,1977,1,Yes,25.34,Good,483600.0
+Los Angeles,Downtown,1772.0,2,3,1951,3,Yes,27.25,Excellent,286200.0
+Houston,Urban,1751.0,1,2,1992,2,No,2.62,Excellent,344100.0
+Houston,Rural,1966.0,1,1,1957,0,Yes,19.22,Poor,289600.0
+Chicago,Urban,2734.0,5,1,1962,0,No,20.69,Good,503400.0
+Houston,Suburb,2350.0,5,1,1984,0,Yes,16.25,Excellent,482300.0
+New York,Suburb,709.0,2,1,1972,2,No,20.18,Fair,137300.0
+Chicago,Urban,803.0,1,3,1995,3,No,7.39,Excellent,209500.0
+New York,Downtown,2015.0,2,2,1964,0,Yes,14.94,Good,349000.0
+Los Angeles,Suburb,2866.0,5,2,1951,2,Yes,12.03,Excellent,547700.0
+Chicago,Suburb,517.375,5,2,2010,1,No,3.15,Excellent,188600.0
+Los Angeles,Downtown,2100.0,4,3,2013,3,No,18.95,Good,457200.0
+Chicago,Downtown,2079.0,2,2,2001,2,Yes,15.11,Good,383900.0
+Phoenix,Rural,3611.0,2,3,1985,3,No,8.62,Fair,636800.0
+Houston,Downtown,2192.0,1,2,2016,1,No,14.47,Fair,396900.0
+Phoenix,Urban,2806.0,1,1,2018,2,No,23.37,Good,426700.0
+Los Angeles,Urban,2613.0,4,3,2016,3,No,24.15,Fair,504300.0
+Houston,Rural,796.0,3,2,1996,2,No,19.66,Fair,208100.0
+Chicago,Suburb,3115.0,3,1,1951,0,No,14.3,Fair,524800.0
+Houston,Suburb,2672.0,3,1,1993,3,Yes,17.48,Excellent,508000.0
+New York,Downtown,2907.0,2,1,2013,2,Yes,11.86,Poor,530700.0
+Houston,Urban,4462.375,2,3,1977,0,Yes,4.23,Fair,813550.0
+New York,Suburb,833.0,5,3,2003,1,Yes,11.88,Good,270400.0
+Houston,Rural,3880.0,2,2,2023,3,No,16.14,Good,661800.0
+New York,Rural,2270.0,2,1,2016,3,Yes,18.17,Fair,415000.0
+Los Angeles,Urban,2730.0,2,2,1985,1,No,28.11,Excellent,454900.0
+Phoenix,Rural,2464.0,4,2,2012,0,No,23.43,Good,495900.0
+Chicago,Rural,2161.0,2,1,1974,1,Yes,4.98,Good,395200.0
+Houston,Urban,2044.0,1,2,1997,3,Yes,5.64,Poor,383600.0
+Phoenix,Downtown,2764.0,1,3,1988,2,No,3.46,Good,529000.0
+Chicago,Downtown,1286.0,5,2,1996,0,Yes,22.28,Excellent,297900.0
+Chicago,Rural,3100.0,4,1,1970,0,Yes,21.33,Fair,566300.0
+New York,Downtown,2167.0,1,3,1979,0,No,29.6,Fair,369900.0
+Los Angeles,Downtown,1596.0,4,3,1980,1,No,15.9,Poor,409100.0
+Los Angeles,Rural,2140.0,4,2,1975,1,No,24.88,Excellent,396200.0
+Phoenix,Downtown,3506.0,5,2,1971,2,No,17.5,Poor,668800.0
+Los Angeles,Rural,2072.0,4,3,1970,2,No,26.29,Excellent,408200.0
+Houston,Suburb,2787.0,2,2,1950,0,No,21.77,Fair,454700.0
+Los Angeles,Urban,1915.0,4,1,1986,2,Yes,19.47,Good,378900.0
+Phoenix,Urban,3106.0,5,2,1995,1,Yes,17.17,Good,598900.0
+Los Angeles,Downtown,3048.0,5,2,1958,2,Yes,21.83,Fair,548900.0
+Houston,Downtown,3979.0,5,3,1966,1,No,12.88,Good,735100.0
+New York,Downtown,2360.0,1,2,1996,2,No,3.35,Fair,437900.0
+Phoenix,Urban,3035.0,2,2,2008,3,Yes,1.68,Poor,557500.0
+New York,Suburb,2578.0,1,2,2003,1,Yes,14.63,Excellent,455000.0
+New York,Suburb,3537.0,3,1,1961,3,Yes,18.18,Poor,583300.0
+New York,Urban,1925.0,2,2,2013,1,No,2.83,Good,404500.0
+Chicago,Suburb,3096.0,4,1,1955,2,Yes,8.96,Fair,562000.0
+Chicago,Urban,2344.0,5,1,2002,3,Yes,10.0,Fair,492400.0
+New York,Suburb,2449.0,3,1,1965,2,Yes,17.1,Good,408400.0
+Phoenix,Rural,2573.0,2,1,1954,1,No,8.72,Good,455000.0
+Houston,Rural,2702.0,1,3,2022,3,Yes,3.32,Fair,499700.0
+Houston,Urban,2407.0,5,1,1995,0,Yes,5.36,Good,498000.0
+Los Angeles,Suburb,2672.0,1,2,1963,2,No,5.63,Fair,449400.0
+Phoenix,Downtown,3762.0,2,1,1993,1,No,25.36,Excellent,604200.0
+Chicago,Suburb,3288.0,2,2,2012,3,No,8.89,Fair,587800.0
+New York,Rural,3195.0,3,1,2001,2,No,21.58,Fair,559400.0
+Los Angeles,Rural,2136.0,4,3,1975,3,No,17.25,Good,437100.0
+Houston,Suburb,1789.0,1,1,2002,2,Yes,29.32,Poor,277800.0
+Chicago,Suburb,3264.0,3,1,1978,2,Yes,8.55,Fair,547500.0
+Chicago,Downtown,3201.0,5,3,1968,2,No,5.17,Fair,650100.0
+New York,Downtown,3678.0,4,1,1996,3,No,2.04,Excellent,686400.0
+Houston,Suburb,2017.0,3,2,1957,3,No,7.61,Excellent,407700.0
+Phoenix,Suburb,2316.0,1,1,1972,2,No,20.68,Good,362300.0
+Chicago,Suburb,1188.0,2,1,1984,0,Yes,3.02,Good,262500.0
+New York,Suburb,2186.0,5,1,2002,0,Yes,7.72,Good,456700.0
+Phoenix,Urban,3297.0,1,3,2007,0,No,25.73,Good,538400.0
+Houston,Suburb,2127.0,4,1,1954,1,No,17.7,Fair,389400.0
+Chicago,Downtown,3012.0,4,1,1965,0,No,2.55,Excellent,576000.0
+Phoenix,Rural,2348.0,2,2,1966,3,No,1.91,Fair,435300.0
+Phoenix,Urban,2759.0,2,1,1981,0,Yes,2.3,Fair,491900.0
+Phoenix,Suburb,1582.0,5,1,2001,3,No,28.29,Excellent,337900.0
+Chicago,Rural,2568.0,5,1,1969,1,No,25.57,Good,471900.0
+Chicago,Urban,517.375,2,1,2015,3,Yes,25.43,Poor,114750.0
+Los Angeles,Rural,2350.0,2,2,1950,3,No,27.76,Poor,368800.0
+Houston,Suburb,1196.0,4,2,2007,3,Yes,15.41,Good,301600.0
+New York,Suburb,3465.0,2,3,1993,0,No,7.8,Good,630800.0
+Phoenix,Downtown,3122.0,3,1,1955,2,No,12.34,Good,509500.0
+Los Angeles,Suburb,2873.0,1,3,1999,3,Yes,21.71,Fair,494000.0
+New York,Suburb,3717.0,2,3,2021,0,No,26.34,Excellent,658500.0
+Los Angeles,Urban,1741.0,5,1,1969,0,Yes,13.34,Fair,366700.0
+Chicago,Downtown,3898.0,3,2,1963,0,Yes,16.29,Good,645300.0
+Phoenix,Urban,3246.0,5,2,1954,2,Yes,27.99,Good,582900.0
+New York,Rural,2311.0,3,1,1990,2,No,3.67,Fair,450000.0
+New York,Suburb,3408.0,2,1,1989,2,No,25.94,Fair,569700.0
+New York,Rural,1615.0,1,2,1983,2,Yes,5.2,Excellent,317900.0
+New York,Urban,1840.0,5,1,1994,1,No,14.77,Excellent,382300.0
+New York,Suburb,2013.0,3,1,2020,2,No,6.94,Fair,396200.0
+Los Angeles,Suburb,2077.0,4,1,2020,2,No,18.29,Excellent,430900.0
+Phoenix,Urban,1655.0,2,2,1976,2,Yes,16.98,Fair,315600.0
+Chicago,Urban,2499.0,1,3,1993,3,Yes,11.71,Good,596900.0
+Chicago,Urban,2293.0,2,3,1982,3,No,25.97,Poor,408600.0
+Chicago,Urban,2782.0,4,1,1982,2,Yes,19.96,Excellent,508000.0
+Chicago,Urban,2044.0,1,2,1993,1,No,21.78,Poor,353100.0
+Los Angeles,Suburb,1044.0,4,1,1969,3,No,4.94,Good,241600.0
+Houston,Urban,2716.0,2,2,1985,0,No,26.55,Good,473100.0
+Phoenix,Suburb,970.0,3,1,1956,3,Yes,5.43,Fair,244900.0
+New York,Suburb,2445.0,2,2,1981,0,Yes,7.07,Good,478300.0
+Houston,Urban,1405.0,2,2,2016,3,No,4.28,Poor,342100.0
+Chicago,Urban,4090.0,2,3,1988,2,Yes,13.49,Good,724900.0
+Houston,Downtown,3229.0,5,1,1973,3,No,26.69,Fair,566200.0
+Phoenix,Suburb,2585.0,4,3,2019,2,Yes,7.95,Good,548900.0
+New York,Urban,3511.0,4,3,2003,2,Yes,11.53,Excellent,685600.0
+New York,Urban,2499.0,4,2,1987,3,Yes,25.46,Fair,337000.0
+Phoenix,Urban,2935.0,5,1,2023,0,No,18.73,Poor,564000.0
+Phoenix,Downtown,2660.0,3,2,1981,0,No,22.67,Good,446600.0
+Chicago,Downtown,2711.0,2,2,1994,3,No,6.81,Good,502200.0
+New York,Rural,3518.0,3,2,2010,2,Yes,21.64,Excellent,636400.0
+Houston,Suburb,3086.0,5,1,2019,0,No,7.21,Fair,611300.0
+Los Angeles,Rural,2731.0,4,1,2002,1,No,29.63,Fair,475900.0
+Los Angeles,Urban,1176.0,2,2,2000,2,No,17.02,Excellent,254600.0
+Phoenix,Downtown,1732.0,1,1,2005,3,No,21.02,Excellent,299400.0
+Chicago,Downtown,2402.0,1,2,1976,2,Yes,3.99,Good,435600.0
+Los Angeles,Rural,2575.0,3,1,1987,1,Yes,7.89,Fair,458700.0
+New York,Downtown,1596.0,4,1,2011,1,No,4.62,Fair,372300.0
+Phoenix,Urban,4429.0,1,3,1967,0,Yes,12.01,Fair,729600.0
+Houston,Downtown,3713.0,3,2,2013,1,Yes,8.88,Excellent,687900.0
+Phoenix,Rural,2982.0,5,3,1979,2,Yes,22.12,Fair,574400.0
+Houston,Urban,2558.0,3,3,1998,0,Yes,3.71,Good,547900.0
+Phoenix,Rural,2330.0,3,2,1986,1,Yes,22.69,Good,428400.0
+Phoenix,Downtown,1738.0,3,2,1962,0,No,1.85,Fair,358800.0
+Phoenix,Rural,2562.0,2,1,1983,0,Yes,6.46,Fair,440800.0
+Houston,Rural,2706.0,3,2,1974,3,No,23.86,Good,465500.0
+Houston,Suburb,1507.0,3,3,2015,0,No,22.41,Fair,319700.0
+Phoenix,Downtown,2767.0,2,3,1967,0,No,14.55,Fair,490100.0
+Los Angeles,Downtown,2376.0,2,2,1954,1,Yes,1.97,Fair,462800.0
+Chicago,Rural,974.0,5,3,1968,2,Yes,18.49,Excellent,254200.0
+Chicago,Suburb,1812.0,4,1,1991,2,Yes,12.5,Excellent,354500.0
+Chicago,Downtown,2499.0,1,3,1967,1,Yes,9.84,Good,388700.0
+Houston,Urban,4010.0,1,1,1981,2,No,19.39,Good,605800.0
+Houston,Rural,2945.0,3,3,1970,0,No,13.38,Good,528300.0
+Los Angeles,Downtown,1432.0,5,1,1959,3,No,3.23,Good,345900.0
+Chicago,Urban,2889.0,3,1,1986,0,Yes,27.52,Excellent,483500.0
+Chicago,Downtown,1262.0,1,2,1998,0,No,23.47,Good,235900.0
+Phoenix,Urban,3366.0,2,1,1962,3,No,2.16,Poor,583400.0
+Houston,Rural,2123.0,4,2,2004,1,No,15.99,Excellent,456600.0
+Chicago,Downtown,2425.0,5,3,1966,0,Yes,2.96,Good,529500.0
+Los Angeles,Downtown,3561.0,2,3,1958,0,No,25.2,Fair,603800.0
+Los Angeles,Suburb,2499.0,4,3,1993,1,No,18.58,Excellent,344400.0
+Chicago,Rural,2499.0,5,1,1995,0,Yes,5.59,Fair,352500.0
+Houston,Urban,2033.0,5,3,1957,0,No,1.11,Fair,469900.0
+Los Angeles,Downtown,3331.0,1,3,1986,2,Yes,1.43,Good,597100.0
+Phoenix,Downtown,1285.0,2,2,1968,1,No,15.47,Fair,256900.0
+Los Angeles,Urban,517.375,5,2,2012,0,Yes,22.16,Good,192100.0
+New York,Rural,2139.0,5,3,1995,0,Yes,4.06,Fair,503700.0
+New York,Suburb,2941.0,4,3,2020,3,Yes,7.03,Fair,593400.0
+Houston,Suburb,3460.0,1,1,1975,3,No,10.15,Good,594400.0
+Chicago,Downtown,2129.0,3,1,1995,3,No,6.93,Good,410300.0
+Houston,Urban,2171.0,1,3,1995,0,Yes,12.04,Fair,402000.0
+Houston,Downtown,3423.0,3,2,1963,0,Yes,17.01,Excellent,576500.0
+Houston,Urban,1004.0,2,3,2012,3,Yes,20.71,Good,248900.0
+Houston,Suburb,2189.0,2,1,2021,2,Yes,28.93,Fair,399300.0
+Phoenix,Rural,2652.0,5,2,1952,2,Yes,27.96,Fair,463500.0
+Phoenix,Urban,2859.0,2,2,1977,2,Yes,17.32,Excellent,486500.0
+Los Angeles,Suburb,2092.0,5,1,1978,2,Yes,22.16,Good,428200.0
+New York,Downtown,2528.0,1,3,1967,1,Yes,28.55,Fair,392700.0
+Houston,Urban,517.375,2,3,1984,3,Yes,2.96,Fair,194000.0
+Los Angeles,Rural,1973.0,1,3,1996,0,Yes,0.67,Good,376100.0
+New York,Downtown,2863.0,1,1,1954,3,Yes,1.38,Fair,482800.0
+Chicago,Downtown,1714.0,2,2,2008,2,Yes,17.12,Good,336000.0
+Phoenix,Suburb,2547.0,1,1,2008,0,No,23.0,Excellent,462800.0
+New York,Urban,2857.0,2,3,1996,1,Yes,11.33,Fair,538100.0
+Chicago,Downtown,2226.0,2,1,1962,3,No,16.58,Excellent,342200.0
+New York,Rural,2636.0,2,2,1982,0,No,15.73,Excellent,461800.0
+Phoenix,Urban,1730.0,3,1,2011,0,No,3.3,Excellent,383800.0
+Phoenix,Rural,2335.0,1,3,1965,2,Yes,9.99,Excellent,409600.0
+Los Angeles,Downtown,2988.0,4,2,1993,2,No,1.07,Excellent,583700.0
+Houston,Rural,2626.0,2,1,2007,3,Yes,3.77,Good,476700.0
+New York,Suburb,2031.0,1,1,1955,1,No,24.45,Good,314500.0
+New York,Rural,2679.0,5,2,1964,0,Yes,24.97,Good,483100.0
+Chicago,Urban,3072.0,2,2,1953,2,Yes,24.16,Excellent,488600.0
+Phoenix,Rural,860.0,2,3,2005,3,No,21.94,Fair,226100.0
+New York,Rural,3427.0,4,2,2013,2,No,23.9,Fair,613400.0
+Phoenix,Suburb,2231.0,3,3,2017,3,Yes,20.29,Fair,437400.0
+New York,Rural,2840.0,3,1,1983,2,No,20.26,Excellent,469300.0
+Los Angeles,Rural,3458.0,2,3,2005,1,Yes,20.19,Good,613500.0
+Houston,Downtown,1403.0,1,1,1981,0,Yes,15.66,Good,249000.0
+New York,Downtown,1932.0,5,2,1958,2,Yes,11.22,Fair,428900.0
+Phoenix,Urban,2269.0,5,1,2012,0,No,22.04,Good,453600.0
+Los Angeles,Downtown,1873.0,1,2,2021,3,Yes,9.31,Poor,365600.0
+New York,Downtown,3888.0,2,1,1982,1,Yes,16.52,Good,638800.0
+Chicago,Downtown,1815.0,5,1,1970,0,Yes,13.28,Fair,362300.0
+Houston,Downtown,2056.0,3,1,2004,2,Yes,8.66,Excellent,441400.0
+New York,Suburb,2664.0,1,1,2006,0,No,29.25,Good,431800.0
+Los Angeles,Downtown,1538.0,4,3,1951,0,No,8.13,Good,354100.0
+Chicago,Suburb,2183.0,2,1,1962,3,No,9.62,Good,378800.0
+Los Angeles,Suburb,2754.0,1,3,1953,1,No,5.27,Good,501900.0
+Los Angeles,Downtown,2234.0,5,2,1999,1,Yes,24.78,Fair,454500.0
+Chicago,Rural,2425.0,2,2,1997,0,Yes,17.8,Good,448400.0
+Los Angeles,Suburb,2077.0,3,3,1979,0,Yes,18.58,Excellent,398200.0
+Chicago,Rural,1288.0,2,2,1978,3,Yes,24.71,Good,227600.0
+New York,Rural,2757.0,2,2,1957,0,Yes,10.62,Good,476400.0
+Chicago,Downtown,3904.0,3,1,1961,3,Yes,6.21,Excellent,666800.0
+Chicago,Urban,2515.0,3,1,1990,1,No,6.35,Excellent,478900.0
+Houston,Downtown,2680.0,2,1,1975,1,Yes,22.11,Good,460300.0
+Chicago,Urban,3054.0,3,3,1999,3,Yes,18.62,Good,580000.0
+Chicago,Urban,1485.0,1,3,1951,0,Yes,6.59,Excellent,307800.0
+New York,Downtown,3862.0,3,2,2004,1,No,4.78,Excellent,688800.0
+Houston,Downtown,2662.0,3,1,2005,2,Yes,4.06,Excellent,502300.0
+Phoenix,Urban,2499.0,2,3,1963,3,Yes,19.02,Good,651700.0
+New York,Downtown,1914.0,1,3,1955,1,Yes,0.5,Fair,384800.0
+New York,Urban,3954.0,4,1,2010,1,No,1.04,Fair,740100.0
+Phoenix,Rural,3120.0,4,3,1961,1,Yes,11.99,Fair,579100.0
+Chicago,Downtown,2942.0,5,1,1962,2,Yes,20.89,Excellent,517900.0
+Los Angeles,Rural,2687.0,3,2,1968,2,No,21.0,Excellent,476500.0
+Houston,Suburb,2301.0,3,2,1993,2,Yes,13.19,Good,429900.0
+Los Angeles,Rural,3460.0,1,2,2008,0,No,20.89,Good,576100.0
+Phoenix,Rural,2612.0,4,1,1986,3,Yes,15.87,Fair,504800.0
+New York,Urban,926.0,5,3,1974,0,No,29.32,Good,253100.0
+New York,Rural,1606.0,1,2,1965,2,Yes,5.29,Good,281200.0
+Houston,Downtown,2351.0,3,2,1987,3,Yes,18.22,Good,430100.0
+New York,Urban,2748.0,4,2,1992,0,No,14.99,Fair,539200.0
+New York,Suburb,2455.0,5,3,1963,0,Yes,6.24,Good,527400.0
+Houston,Downtown,3475.0,2,3,1955,0,Yes,22.62,Fair,584800.0
+Houston,Suburb,939.0,4,1,1972,2,No,8.63,Excellent,269100.0
+Phoenix,Rural,2615.0,5,2,2009,1,Yes,11.76,Fair,546500.0
+New York,Downtown,1046.0,1,3,1961,3,No,11.56,Excellent,222000.0
+New York,Downtown,3108.0,2,1,1962,2,Yes,7.7,Fair,537700.0
+Phoenix,Suburb,2424.0,5,2,1955,3,No,13.21,Fair,465100.0
+Chicago,Downtown,2836.0,5,3,2012,2,Yes,14.46,Good,578800.0
+Chicago,Downtown,1809.0,3,3,1987,0,Yes,22.45,Good,351900.0
+Chicago,Downtown,3524.0,4,1,1999,0,No,23.07,Good,624800.0
+Phoenix,Rural,3333.0,3,2,2001,1,Yes,5.18,Fair,604300.0
+New York,Suburb,2967.0,2,2,1989,1,No,17.99,Poor,520000.0
+Phoenix,Downtown,2396.0,5,3,1957,3,No,26.94,Good,463800.0
+Phoenix,Urban,2964.0,3,2,2010,1,No,3.71,Fair,564800.0
+Chicago,Urban,1934.0,4,1,1957,1,Yes,14.45,Fair,386400.0
+Los Angeles,Urban,3184.0,2,3,1983,3,Yes,22.64,Good,526800.0
+New York,Urban,3820.0,1,3,1986,2,Yes,18.54,Poor,636100.0
+Chicago,Rural,3356.0,3,1,2006,1,No,3.47,Fair,656400.0
+Los Angeles,Downtown,1916.0,2,3,1995,2,No,12.2,Poor,411300.0
+Los Angeles,Suburb,2789.0,1,2,1971,0,No,15.46,Excellent,433700.0
+Houston,Downtown,1465.0,3,2,1989,1,Yes,29.88,Fair,274900.0
+New York,Rural,2958.0,2,3,1994,0,No,5.77,Excellent,553100.0
+Los Angeles,Urban,2860.0,2,1,2004,0,Yes,29.48,Fair,443900.0
+Chicago,Rural,1004.0,3,1,2000,2,Yes,11.6,Good,270700.0
+Houston,Downtown,1571.0,2,2,1954,3,Yes,6.41,Fair,308300.0
+New York,Suburb,2273.0,5,1,1962,1,Yes,12.72,Good,446700.0
+Phoenix,Rural,2259.0,3,3,1977,2,Yes,18.61,Excellent,438800.0
+Chicago,Suburb,1532.0,2,3,2011,3,Yes,6.8,Excellent,350200.0
+Los Angeles,Rural,2811.0,1,2,1973,0,Yes,9.1,Good,465100.0
+Los Angeles,Suburb,2701.0,1,2,1956,1,Yes,25.71,Excellent,439500.0
+Chicago,Suburb,2345.0,5,2,1987,0,No,29.97,Fair,455700.0
+Los Angeles,Urban,1895.0,3,1,1986,0,Yes,9.89,Good,390100.0
+Houston,Suburb,3339.0,2,3,2017,1,Yes,4.89,Good,613900.0
+New York,Urban,3824.0,2,3,1991,3,No,23.9,Excellent,617400.0
+Houston,Downtown,2113.0,1,3,1954,3,No,18.21,Fair,382100.0
+Los Angeles,Downtown,2010.0,5,2,2013,1,No,3.46,Excellent,480200.0
+Phoenix,Urban,2893.0,1,3,1999,1,No,28.43,Good,497100.0
+New York,Urban,2214.0,1,1,1986,2,Yes,2.8,Good,399900.0
+New York,Rural,2388.0,5,1,2022,2,No,18.95,Fair,484600.0
+Chicago,Rural,2499.0,3,3,2002,0,No,13.01,Good,576300.0
+Chicago,Rural,973.0,2,2,1974,1,No,16.92,Good,205700.0
+Phoenix,Downtown,3555.0,3,3,1958,3,No,6.79,Good,649900.0
+New York,Rural,2558.0,4,1,1987,0,Yes,20.8,Excellent,472800.0
+Phoenix,Suburb,2171.0,4,1,1971,0,No,28.81,Good,359100.0
+Chicago,Suburb,2429.0,4,1,1998,0,No,14.02,Good,466500.0
+Chicago,Rural,2470.0,5,3,2017,0,No,15.93,Excellent,551300.0
+New York,Suburb,1115.0,1,1,1964,3,No,7.57,Good,207100.0
+Houston,Downtown,3696.0,3,2,2014,0,Yes,26.81,Good,669100.0
+Los Angeles,Suburb,2533.0,2,3,2003,1,No,29.15,Fair,431700.0
+Chicago,Downtown,2854.0,4,3,1979,2,No,23.7,Fair,538400.0
+Chicago,Urban,3261.0,3,1,1969,3,No,16.51,Good,538800.0
+Houston,Urban,1683.0,4,1,1982,1,Yes,28.73,Excellent,306200.0
+Houston,Urban,2879.0,4,2,1956,1,No,5.04,Fair,535100.0
+Phoenix,Urban,2286.0,2,3,1957,1,No,14.62,Fair,448300.0
+Phoenix,Suburb,3177.0,5,1,1977,2,Yes,16.36,Good,581500.0
+Los Angeles,Rural,798.0,1,2,1994,2,No,15.01,Poor,164100.0
+Los Angeles,Suburb,2421.0,5,1,2022,2,Yes,24.17,Good,478800.0
+New York,Downtown,2018.0,3,3,2023,1,Yes,20.28,Good,413300.0
+Phoenix,Suburb,2499.0,5,1,1960,2,No,4.24,Fair,563600.0
+Chicago,Suburb,2876.0,3,3,1980,0,No,10.72,Excellent,512400.0
+Phoenix,Downtown,1934.0,3,1,1961,2,Yes,10.5,Good,348300.0
+Chicago,Urban,2499.0,1,3,2000,3,Yes,17.19,Good,370800.0
+Houston,Urban,2411.0,2,2,1993,1,No,9.1,Fair,440600.0
+Phoenix,Urban,1783.0,1,3,1999,1,Yes,3.96,Good,350700.0
+Houston,Rural,3174.0,5,2,1966,0,Yes,19.78,Excellent,575500.0
+Los Angeles,Downtown,2205.0,3,3,1986,2,No,25.61,Fair,425400.0
+Los Angeles,Downtown,517.375,4,2,1950,2,Yes,27.98,Fair,114750.0
+New York,Suburb,2200.0,4,1,1978,3,Yes,29.19,Fair,408000.0
+Phoenix,Rural,1669.0,3,3,2000,0,Yes,23.54,Fair,328800.0
+Houston,Urban,1195.0,1,1,2013,3,Yes,4.62,Fair,231200.0
+Chicago,Rural,1510.0,2,2,1953,3,Yes,25.67,Fair,276700.0
+Los Angeles,Downtown,2588.0,1,3,1977,1,Yes,12.3,Excellent,458200.0
+Los Angeles,Downtown,3563.0,3,3,1965,1,No,22.03,Good,606800.0
+Chicago,Suburb,2751.0,3,1,2012,2,Yes,16.17,Fair,497000.0
+Houston,Suburb,2015.0,2,3,2002,2,No,24.94,Good,357900.0
+Houston,Downtown,2865.0,5,3,1966,3,No,13.05,Poor,561700.0
+Phoenix,Urban,2133.0,5,1,1989,2,No,2.32,Good,465200.0
+Phoenix,Urban,1944.0,2,3,1962,3,No,16.93,Fair,367100.0
+New York,Rural,1577.0,5,1,2001,2,No,5.55,Fair,377600.0
+Los Angeles,Downtown,1099.0,4,1,2007,2,No,28.98,Excellent,240500.0
+Phoenix,Downtown,2188.0,5,1,1986,1,No,16.05,Fair,453100.0
+Houston,Urban,2626.0,5,1,1986,1,No,16.83,Excellent,516700.0
+Chicago,Urban,2423.0,5,1,1983,1,Yes,27.26,Good,446700.0
+Houston,Downtown,2167.0,4,2,2019,1,No,18.93,Poor,433300.0
+Los Angeles,Suburb,1743.0,5,2,1966,0,No,9.43,Good,367100.0
+Houston,Downtown,2987.0,4,1,1969,1,No,9.23,Good,556800.0
+New York,Downtown,1446.0,2,2,2022,0,Yes,15.3,Fair,327300.0
+Los Angeles,Urban,3121.0,1,2,2008,1,No,26.06,Fair,495600.0
+Chicago,Urban,1698.0,2,3,2018,2,Yes,23.94,Poor,319800.0
+New York,Suburb,1898.0,1,1,1982,3,No,28.9,Excellent,281600.0
+Los Angeles,Suburb,2499.0,2,2,1966,2,No,2.62,Good,289200.0
+Chicago,Rural,2099.0,1,3,2006,2,Yes,8.42,Poor,396400.0
+New York,Downtown,3280.0,1,3,1950,0,No,2.87,Excellent,556400.0
+New York,Urban,2913.0,3,1,1962,1,Yes,22.66,Fair,484400.0
+Los Angeles,Suburb,3283.0,1,1,1976,3,Yes,4.65,Fair,545700.0
+Phoenix,Rural,2918.0,1,3,2019,3,No,3.45,Fair,548800.0
+New York,Rural,1617.0,3,1,2008,1,No,17.07,Good,321000.0
+New York,Urban,2235.0,5,1,1955,0,Yes,12.64,Poor,435800.0
+Chicago,Urban,1876.0,5,3,1972,0,Yes,21.6,Good,378400.0
+Houston,Rural,3564.0,3,3,1959,0,No,14.87,Excellent,641400.0
+Los Angeles,Suburb,1543.0,4,1,2000,3,No,13.05,Fair,342100.0
+Los Angeles,Rural,3215.0,1,2,1968,0,No,13.05,Fair,550800.0
+Phoenix,Downtown,3214.0,1,1,2000,0,Yes,26.22,Fair,510300.0
+Phoenix,Downtown,3964.0,3,2,2017,3,No,12.16,Good,705700.0
+Los Angeles,Urban,2172.0,3,3,1991,3,Yes,10.34,Excellent,421300.0
+Phoenix,Suburb,3070.0,4,2,2006,2,No,10.49,Fair,566000.0
+Chicago,Suburb,4325.0,5,3,2017,3,Yes,6.3,Poor,813550.0
+Los Angeles,Downtown,2006.0,2,1,1987,1,Yes,25.89,Fair,344000.0
+Phoenix,Rural,1272.0,5,1,2011,3,No,4.83,Fair,361600.0
+Los Angeles,Urban,996.0,1,3,1956,3,Yes,27.3,Good,189800.0
+Houston,Rural,3070.0,3,3,2020,0,Yes,8.86,Poor,590200.0
+New York,Rural,993.0,4,3,1999,2,Yes,27.03,Fair,222900.0
+Los Angeles,Rural,2202.0,5,1,2001,0,Yes,23.83,Good,445200.0
+New York,Suburb,2850.0,4,1,1975,2,Yes,17.67,Fair,497400.0
+Phoenix,Downtown,2648.0,5,2,1975,0,No,20.25,Good,509400.0
+New York,Suburb,2840.0,1,3,1968,1,No,10.11,Fair,499000.0
+Los Angeles,Downtown,2678.0,2,2,1958,0,Yes,17.44,Excellent,444400.0
+Houston,Urban,3523.0,4,1,2010,0,No,9.13,Fair,635800.0
+Phoenix,Urban,1738.0,4,2,1969,1,Yes,12.37,Excellent,363900.0
+Los Angeles,Rural,1958.0,2,2,1999,1,Yes,23.06,Fair,324400.0
+Phoenix,Downtown,1882.0,4,1,1971,3,No,7.7,Good,369900.0
+Chicago,Downtown,3164.0,4,1,1962,0,Yes,25.25,Fair,522400.0
+New York,Downtown,3220.0,5,3,1961,1,Yes,11.59,Good,619800.0
+Chicago,Rural,2861.0,5,2,1959,1,Yes,16.2,Fair,530000.0
+Los Angeles,Rural,3447.0,2,1,2014,3,No,28.29,Good,552700.0
+Houston,Urban,1558.0,1,1,1979,2,No,20.6,Good,248300.0
+Phoenix,Suburb,3834.0,4,2,1986,1,Yes,19.55,Good,694400.0
+New York,Downtown,3719.0,1,1,1970,1,Yes,21.49,Good,584400.0
+Phoenix,Downtown,3088.0,2,3,1971,0,Yes,27.58,Poor,514700.0
+Los Angeles,Suburb,3925.0,2,3,1967,3,Yes,7.83,Fair,686300.0
+Phoenix,Downtown,1175.0,5,2,2015,0,Yes,18.59,Good,328400.0
+New York,Rural,2080.0,4,3,1997,2,No,12.31,Poor,453200.0
+New York,Rural,1912.0,3,1,1993,3,No,0.85,Fair,379100.0
+Phoenix,Downtown,3077.0,2,1,1958,0,No,4.2,Fair,523100.0
+Houston,Rural,1660.0,4,1,2016,1,No,10.09,Fair,355200.0
+Los Angeles,Rural,3106.0,1,1,2003,1,Yes,17.17,Good,501100.0
+Los Angeles,Downtown,3596.0,5,2,1975,3,Yes,26.5,Good,639500.0
+Houston,Urban,2499.0,1,3,1986,1,No,23.84,Excellent,517000.0
+Chicago,Suburb,2727.0,2,3,1983,0,No,16.82,Fair,478000.0
+New York,Rural,1710.0,2,1,1957,3,Yes,2.68,Excellent,309500.0
+Chicago,Urban,1823.0,1,2,1959,1,No,8.93,Good,312300.0
+Phoenix,Rural,3500.0,2,1,1997,1,Yes,11.32,Excellent,584700.0
+Houston,Rural,3123.0,4,1,2004,2,Yes,18.84,Excellent,561000.0
+Chicago,Suburb,2469.0,2,2,2003,2,Yes,2.42,Good,479900.0
+Los Angeles,Rural,2166.0,5,2,1989,3,No,16.14,Fair,443300.0
+Phoenix,Suburb,879.0,4,1,1964,2,No,27.09,Fair,194400.0
+Phoenix,Suburb,1643.0,3,3,1967,0,No,21.31,Fair,332200.0
+Chicago,Suburb,4029.0,2,1,1972,1,No,24.01,Excellent,643600.0
+Chicago,Urban,1476.0,2,3,2011,1,No,20.61,Excellent,305500.0
+Houston,Downtown,2499.0,5,3,1995,1,Yes,6.59,Good,577600.0
+New York,Urban,3306.0,5,2,1988,3,No,3.76,Excellent,655900.0
+Chicago,Downtown,1496.0,1,2,1964,3,Yes,24.97,Excellent,249300.0
+Chicago,Downtown,2648.0,1,1,2002,2,Yes,21.02,Good,420900.0
+Los Angeles,Suburb,3250.0,1,3,2013,1,Yes,17.46,Good,566200.0
+Phoenix,Rural,2510.0,5,3,2012,1,No,6.08,Good,558600.0
+New York,Suburb,4462.375,1,1,1965,1,No,18.3,Good,729200.0
+Los Angeles,Rural,1165.0,1,1,2019,1,No,1.42,Poor,272300.0
+Houston,Downtown,2499.0,3,1,2015,1,No,4.01,Good,653900.0
+Houston,Suburb,2362.0,1,2,1962,0,No,9.7,Good,394000.0
+Chicago,Rural,3118.0,2,1,1996,1,No,13.59,Good,524500.0
+Chicago,Urban,2499.0,5,1,1958,0,No,4.06,Excellent,545200.0
+Houston,Rural,1913.0,4,3,2012,1,No,4.04,Fair,428200.0
+Chicago,Suburb,2683.0,3,1,1983,3,Yes,21.91,Fair,450000.0
+New York,Urban,1014.0,5,3,1978,3,No,17.31,Excellent,302300.0
+Chicago,Rural,2983.0,5,3,1986,0,Yes,16.25,Good,589700.0
+Phoenix,Rural,2499.0,2,2,1992,1,Yes,13.85,Fair,515900.0
+Chicago,Rural,3011.0,1,1,2013,3,Yes,29.31,Good,468200.0
+Los Angeles,Rural,3346.0,2,1,1973,3,Yes,1.97,Good,583700.0
+New York,Rural,2794.0,1,3,2020,1,No,5.83,Excellent,506900.0
+Los Angeles,Urban,2618.0,1,2,1983,1,No,19.6,Good,431300.0
+Los Angeles,Downtown,1795.0,5,2,1997,3,Yes,4.52,Fair,428000.0
+Phoenix,Urban,1930.0,1,1,1961,1,Yes,17.89,Good,275700.0
+New York,Urban,3449.0,3,3,1972,2,Yes,17.25,Excellent,599500.0
+New York,Urban,3649.0,3,1,1962,1,No,29.14,Good,592600.0
+New York,Downtown,2310.0,3,1,1994,3,Yes,26.56,Excellent,412100.0
+New York,Suburb,2537.0,5,1,2014,3,Yes,28.39,Fair,465000.0
+New York,Downtown,1776.0,2,1,1996,0,No,3.85,Excellent,344300.0
+Phoenix,Urban,3438.0,4,3,2007,2,Yes,26.11,Good,594400.0
+Chicago,Rural,3032.0,1,2,1954,3,No,4.31,Good,511100.0
+Los Angeles,Rural,4053.0,4,1,1954,2,No,19.17,Fair,698500.0
+New York,Urban,1797.0,2,1,2009,1,Yes,21.74,Excellent,343100.0
+Chicago,Rural,2198.0,2,1,1970,3,Yes,5.25,Good,416200.0
+Chicago,Urban,2685.0,5,1,1973,0,Yes,19.16,Excellent,511800.0
+Los Angeles,Rural,3017.0,3,2,1967,3,No,2.05,Fair,577300.0
+Phoenix,Downtown,2327.0,3,2,1970,0,No,9.15,Fair,440900.0
+Houston,Suburb,1802.0,2,2,2003,2,No,27.67,Fair,316600.0
+Houston,Suburb,2499.0,5,2,1959,0,Yes,5.57,Good,634200.0
+Chicago,Downtown,2499.0,5,1,1973,1,Yes,2.43,Good,600500.0
+Los Angeles,Downtown,1767.0,1,3,2009,1,Yes,13.59,Good,318400.0
+Houston,Urban,3584.0,3,2,2006,1,Yes,25.59,Good,635700.0
+Chicago,Urban,3436.0,2,2,1972,3,Yes,2.76,Excellent,600600.0
+Phoenix,Urban,2607.0,4,1,1971,1,Yes,10.99,Fair,477600.0
+Houston,Rural,2564.0,3,1,2017,1,No,27.04,Fair,466700.0
+Chicago,Urban,2943.0,1,1,1983,3,No,3.99,Excellent,510600.0
+Chicago,Downtown,1811.0,5,1,2019,2,No,9.66,Good,400500.0
+New York,Suburb,2524.0,2,3,1977,1,Yes,23.46,Good,440800.0
+Phoenix,Rural,778.0,3,3,1988,1,No,16.52,Good,207000.0
+New York,Urban,3201.0,4,2,1991,3,No,25.05,Good,560300.0
+Los Angeles,Rural,1251.0,1,3,1972,2,No,3.79,Fair,224200.0
+New York,Rural,3703.0,1,2,2019,2,Yes,27.66,Good,582400.0
+New York,Urban,2236.0,3,2,1951,2,Yes,28.08,Excellent,380200.0
+Houston,Rural,2331.0,4,3,1973,3,No,5.08,Good,446500.0
+Chicago,Suburb,1998.0,1,2,1966,0,Yes,1.5,Poor,347100.0
+Phoenix,Downtown,2270.0,2,1,2014,0,Yes,29.7,Good,390200.0
+New York,Downtown,3635.0,1,2,2019,1,Yes,14.73,Fair,592100.0
+Phoenix,Suburb,517.375,4,1,2018,1,Yes,17.38,Fair,181400.0
+New York,Rural,3522.0,5,3,2009,1,No,18.67,Excellent,653700.0
+Los Angeles,Urban,2770.0,5,3,1999,0,Yes,23.8,Fair,556500.0
+New York,Rural,1534.0,3,2,1961,3,No,24.45,Excellent,284800.0
+Houston,Suburb,1640.0,4,1,1996,1,No,6.22,Good,350800.0
+Chicago,Rural,3841.0,1,2,2016,3,Yes,7.48,Good,617500.0
+Los Angeles,Downtown,1744.0,1,3,2014,1,Yes,26.37,Good,305500.0
+New York,Rural,1577.0,5,2,1976,3,Yes,24.68,Fair,353200.0
+Phoenix,Suburb,3410.0,5,2,1997,3,No,18.72,Good,663800.0
+Los Angeles,Downtown,2771.0,2,1,2011,0,No,29.84,Excellent,451200.0
+Los Angeles,Rural,1750.0,5,3,1993,3,No,22.19,Good,396100.0
+New York,Rural,2673.0,2,2,1968,2,No,6.87,Good,469000.0
+Los Angeles,Downtown,1679.0,1,1,2008,0,No,25.48,Excellent,296300.0
+Phoenix,Urban,3381.0,2,2,1957,1,No,12.73,Fair,564600.0
+Los Angeles,Downtown,3349.0,2,1,2004,0,No,1.57,Poor,607600.0
+Phoenix,Urban,2926.0,3,1,1996,2,Yes,9.98,Poor,533700.0
+New York,Suburb,2789.0,5,2,1951,2,No,23.02,Good,517700.0
+Chicago,Suburb,3909.0,2,3,1988,3,No,28.83,Excellent,630400.0
+Los Angeles,Downtown,2500.0,1,3,1994,2,No,8.65,Good,484400.0
+Chicago,Downtown,1555.0,4,1,1981,2,No,7.77,Excellent,363200.0
+Phoenix,Suburb,2860.0,2,3,2014,2,Yes,17.13,Good,558900.0
+Los Angeles,Urban,4169.0,5,1,1987,2,No,24.44,Fair,706500.0
+Houston,Suburb,1688.0,3,3,1960,1,No,22.52,Fair,335100.0
+Chicago,Downtown,2211.0,1,2,1959,1,Yes,17.02,Excellent,353200.0
+Los Angeles,Suburb,2499.0,3,3,2008,0,Yes,19.13,Fair,540300.0
+Chicago,Downtown,2457.0,4,1,2004,3,No,7.64,Good,492700.0
+Los Angeles,Downtown,1714.0,2,1,1969,1,No,13.26,Fair,301900.0
+New York,Suburb,3397.0,2,3,1966,2,No,8.03,Fair,596100.0
+Chicago,Urban,4356.0,5,2,2017,3,No,26.59,Good,808100.0
+Houston,Rural,2657.0,2,1,1954,1,No,3.82,Fair,458900.0
+Houston,Suburb,1777.0,1,1,2009,0,No,20.55,Excellent,269900.0
+Phoenix,Rural,1261.0,4,1,1972,2,Yes,8.18,Good,283700.0
+Los Angeles,Suburb,2706.0,3,1,1995,3,Yes,14.53,Good,470900.0
+Chicago,Rural,3383.0,4,1,2001,1,No,9.33,Good,608500.0
+Phoenix,Urban,2880.0,2,2,1959,3,No,10.04,Good,510100.0
+Chicago,Urban,2498.0,3,3,1986,1,No,8.18,Excellent,512200.0
+Los Angeles,Suburb,2029.0,5,2,1977,0,Yes,22.71,Fair,402800.0
+Houston,Downtown,1626.0,4,2,1992,2,No,11.29,Poor,357100.0
+New York,Rural,3168.0,3,1,1975,0,Yes,21.93,Poor,521400.0
+Houston,Downtown,3231.0,3,2,2004,2,Yes,13.95,Excellent,609500.0
+Phoenix,Downtown,1263.0,3,1,1997,2,No,16.64,Excellent,281500.0
+New York,Downtown,2499.0,1,2,1978,3,Yes,16.53,Fair,619900.0
+Phoenix,Urban,2959.0,4,1,1976,1,No,29.29,Good,490800.0
+Los Angeles,Suburb,3620.0,3,1,1967,0,Yes,11.33,Poor,591200.0
+New York,Suburb,1426.0,4,2,2009,0,No,6.63,Fair,371600.0
+Phoenix,Urban,1407.0,3,2,1986,0,No,27.4,Good,324500.0
+Los Angeles,Urban,2381.0,5,3,2018,3,Yes,5.66,Poor,511500.0
+Houston,Suburb,2499.0,5,3,2023,3,Yes,25.12,Good,613200.0
+Los Angeles,Downtown,3937.0,5,3,1970,3,Yes,4.93,Good,747100.0
+Chicago,Rural,3065.0,2,2,1973,2,No,19.93,Good,516900.0
+Los Angeles,Rural,2306.0,3,2,1952,0,Yes,4.94,Good,420300.0
+Los Angeles,Rural,1679.0,2,1,2011,2,Yes,27.73,Good,268300.0
+Chicago,Downtown,3484.0,4,3,1951,0,No,17.17,Good,592800.0
+Phoenix,Suburb,1728.0,2,1,2015,0,No,10.21,Poor,354700.0
+Phoenix,Urban,3803.0,4,1,1991,1,Yes,4.64,Good,688400.0
+Los Angeles,Suburb,2272.0,4,1,1983,0,Yes,11.45,Fair,449300.0
+Chicago,Downtown,3772.0,4,1,1986,3,Yes,21.3,Poor,668700.0
+Chicago,Urban,3043.0,2,3,1969,3,No,11.86,Good,538800.0
+Houston,Downtown,2390.0,3,1,2017,3,No,7.76,Excellent,489800.0
+Phoenix,Rural,2084.0,2,2,1994,1,Yes,17.53,Fair,370200.0
+New York,Rural,2227.0,3,2,1986,1,No,12.83,Poor,425600.0
+Phoenix,Downtown,2843.0,3,2,1996,2,Yes,5.39,Fair,528100.0
+Phoenix,Urban,2562.0,4,3,1954,0,Yes,5.04,Fair,526800.0
+Houston,Urban,2025.0,2,1,1998,0,No,21.37,Good,369700.0
+New York,Suburb,2367.0,3,3,1986,3,Yes,29.25,Fair,425800.0
+Houston,Rural,2563.0,5,1,1983,3,Yes,7.38,Excellent,493300.0
+New York,Suburb,797.0,3,3,2022,3,No,23.31,Good,245400.0
+Los Angeles,Suburb,2867.0,5,3,2019,3,Yes,3.08,Good,603200.0
+New York,Downtown,1716.0,2,1,1967,3,Yes,11.76,Good,304300.0
+Houston,Downtown,1577.0,2,3,1968,3,No,15.45,Fair,296600.0
+Phoenix,Suburb,1150.0,2,1,1989,0,Yes,8.43,Fair,247500.0
+New York,Rural,1065.0,3,2,1966,1,Yes,16.12,Good,227000.0
+New York,Downtown,1416.0,1,2,2009,3,No,26.54,Poor,262300.0
+Chicago,Suburb,1933.0,3,2,1991,0,No,28.36,Good,348300.0
+Phoenix,Suburb,4063.0,3,3,2021,3,No,3.47,Fair,764100.0
+Los Angeles,Suburb,2079.0,4,2,2014,2,Yes,8.52,Fair,435900.0
+Houston,Suburb,2642.0,4,1,2002,2,No,29.38,Fair,489900.0
+Los Angeles,Suburb,2820.0,3,2,1956,0,Yes,8.48,Fair,504500.0
+Phoenix,Suburb,2605.0,5,2,1954,1,No,20.93,Excellent,495200.0
+New York,Downtown,2438.0,4,3,1973,2,Yes,7.98,Fair,481400.0
+New York,Rural,1544.0,3,1,1977,2,Yes,11.01,Excellent,310800.0
+Phoenix,Suburb,3661.0,1,3,2011,1,No,6.14,Good,628100.0
+New York,Urban,3946.0,5,3,1966,2,Yes,25.76,Excellent,705700.0
+New York,Downtown,1154.0,2,1,1969,3,Yes,26.54,Good,183100.0
+New York,Downtown,2499.0,3,3,1952,1,No,9.26,Excellent,350300.0
+Houston,Suburb,2276.0,3,1,1986,2,Yes,24.8,Fair,404800.0
+Houston,Downtown,1728.0,5,2,1964,1,Yes,11.07,Good,366500.0
+Chicago,Suburb,2905.0,4,1,2000,3,Yes,3.42,Fair,561300.0
+Los Angeles,Rural,1917.0,4,1,1997,2,No,22.86,Good,379500.0
+Phoenix,Rural,4232.0,4,1,1957,0,No,18.1,Good,716200.0
+Phoenix,Downtown,3452.0,2,3,1962,2,No,8.59,Good,633400.0
+Phoenix,Downtown,2670.0,5,1,1997,2,No,7.96,Fair,524900.0
+Chicago,Urban,3322.0,5,1,1952,3,No,29.28,Poor,568700.0
+Houston,Downtown,3385.0,4,1,2014,0,No,25.94,Good,622100.0
+Chicago,Urban,2049.0,4,2,2022,0,No,24.39,Good,397000.0
+Phoenix,Rural,2499.0,1,1,1986,0,No,4.28,Fair,297000.0
+Los Angeles,Rural,2563.0,1,3,1975,3,Yes,22.78,Excellent,437400.0
+New York,Suburb,2499.0,3,1,2005,3,Yes,6.83,Excellent,595800.0
+Houston,Rural,2611.0,3,1,1983,3,Yes,29.33,Excellent,405800.0
+Houston,Urban,1238.0,5,2,1958,3,Yes,2.04,Excellent,323800.0
+Chicago,Downtown,1858.0,5,1,2011,3,No,10.89,Poor,400200.0
+Houston,Suburb,2441.0,2,3,1962,0,Yes,13.15,Excellent,448500.0
+Phoenix,Urban,2439.0,2,1,2018,1,Yes,24.81,Good,417700.0
+Phoenix,Downtown,4078.0,1,3,1990,3,Yes,23.1,Fair,683100.0
+Chicago,Suburb,1391.0,3,2,1950,1,Yes,11.56,Excellent,268400.0
+Phoenix,Rural,2904.0,1,1,1996,2,Yes,17.18,Fair,478000.0
+Los Angeles,Urban,3691.0,1,2,1953,2,No,25.15,Good,577200.0
+Chicago,Downtown,4317.0,3,1,2012,3,No,1.04,Fair,765200.0
+Los Angeles,Suburb,2499.0,2,3,1986,2,Yes,24.16,Good,371500.0
+New York,Suburb,2893.0,3,2,1959,1,Yes,28.43,Good,490800.0
+Los Angeles,Rural,2956.0,4,1,1977,2,Yes,1.45,Good,551000.0
+New York,Downtown,2656.0,4,3,1955,2,Yes,1.84,Poor,509100.0
+New York,Rural,2421.0,4,2,1976,1,No,10.66,Good,483400.0
+Los Angeles,Rural,2849.0,5,1,1961,2,Yes,3.09,Good,566200.0
+Chicago,Downtown,517.375,2,2,2011,3,No,14.64,Fair,146100.0
+Phoenix,Downtown,3046.0,2,1,2001,1,Yes,22.0,Excellent,518900.0
+Phoenix,Downtown,2601.0,5,3,1997,1,No,17.22,Good,549900.0
+New York,Urban,2322.0,1,3,2016,0,No,6.29,Excellent,446500.0
+New York,Downtown,4137.0,4,2,1995,0,No,19.82,Fair,735400.0
+Chicago,Suburb,2499.0,4,2,2023,1,Yes,20.7,Fair,426700.0
+Houston,Rural,2178.0,1,1,1964,1,Yes,28.01,Fair,333600.0
+Los Angeles,Urban,4093.0,3,3,2020,0,No,4.83,Good,723000.0
+New York,Downtown,1834.0,3,1,1985,3,Yes,20.92,Fair,301000.0
+Phoenix,Urban,2060.0,2,3,1963,2,Yes,27.39,Good,374700.0
+Chicago,Downtown,2382.0,5,2,1952,2,No,15.3,Fair,460400.0
+Los Angeles,Urban,3173.0,2,1,2016,2,Yes,11.17,Fair,547200.0
+Chicago,Rural,2666.0,3,1,1968,1,No,5.54,Good,514200.0
+Los Angeles,Rural,1466.0,1,3,2003,3,Yes,26.07,Excellent,261300.0
+Los Angeles,Suburb,2074.0,2,3,2018,0,Yes,12.13,Fair,416800.0
+New York,Suburb,2014.0,4,3,1959,3,No,27.78,Good,389200.0
+Chicago,Downtown,2438.0,4,2,1982,3,No,25.51,Good,450500.0
+Chicago,Rural,2841.0,1,1,1962,2,No,11.61,Good,477100.0
+Phoenix,Urban,2835.0,3,3,2000,0,No,17.43,Excellent,527800.0
+Phoenix,Urban,1079.0,4,2,1981,3,Yes,1.3,Excellent,308500.0
+New York,Urban,3351.0,4,3,1973,0,Yes,8.27,Fair,636700.0
+New York,Suburb,2702.0,5,1,1984,1,Yes,21.45,Good,521900.0
+Houston,Urban,3608.0,2,3,2019,2,No,20.5,Good,612100.0
+Phoenix,Suburb,2855.0,3,1,1989,0,Yes,10.92,Good,480100.0
+Los Angeles,Suburb,3381.0,2,2,2003,1,Yes,24.35,Fair,568400.0
+Chicago,Downtown,2499.0,3,2,1993,1,Yes,7.46,Excellent,527800.0
+New York,Urban,3577.0,4,3,2011,1,No,14.11,Good,698800.0
+New York,Urban,2918.0,5,1,2017,3,No,14.44,Fair,569100.0
+Chicago,Rural,2422.0,2,1,1982,3,Yes,10.55,Fair,429500.0
+Houston,Downtown,4318.0,4,1,2005,2,Yes,28.66,Excellent,721300.0
+Phoenix,Rural,3211.0,3,3,1985,2,No,21.05,Poor,565300.0
+New York,Downtown,2959.0,2,1,2003,1,No,16.41,Good,506400.0
+Chicago,Urban,1479.0,2,1,1968,2,No,15.56,Fair,283000.0
+New York,Suburb,1469.0,4,1,1992,3,No,5.2,Poor,334300.0
+Los Angeles,Suburb,2734.0,2,1,1961,2,Yes,11.48,Poor,454900.0
+Houston,Suburb,2616.0,5,3,1960,0,No,20.35,Fair,526800.0
+Los Angeles,Suburb,2009.0,5,3,2019,3,Yes,27.77,Poor,413000.0
+New York,Suburb,2613.0,4,1,1961,1,No,24.59,Good,474100.0
+New York,Rural,3771.0,3,1,1990,1,Yes,9.36,Good,642800.0
+Phoenix,Downtown,3056.0,4,2,1974,2,Yes,13.3,Fair,581000.0
+Chicago,Urban,1587.0,5,2,1952,3,No,2.95,Good,380600.0
+Chicago,Rural,2411.0,1,1,1952,1,Yes,3.51,Good,372400.0
+Los Angeles,Downtown,1856.0,1,1,1977,1,Yes,14.37,Good,311300.0
+Houston,Suburb,2499.0,2,2,1972,3,Yes,16.14,Good,409900.0
+Chicago,Downtown,2169.0,2,2,1997,3,No,8.29,Good,410700.0
+Phoenix,Downtown,2118.0,1,1,2016,1,No,19.46,Excellent,356600.0
+Los Angeles,Suburb,1496.0,5,3,1991,2,No,21.25,Good,348900.0
+Los Angeles,Suburb,2398.0,2,3,1989,2,Yes,9.32,Fair,476500.0
+Phoenix,Suburb,2052.0,4,1,1955,2,Yes,22.87,Good,365600.0
+Houston,Urban,517.375,4,1,1969,0,Yes,6.57,Fair,154600.0
+Phoenix,Suburb,4142.0,5,2,1960,3,Yes,16.56,Fair,753500.0
+Houston,Urban,3371.0,2,2,1976,1,No,24.23,Good,573200.0
+Phoenix,Suburb,2199.0,4,3,1970,0,Yes,16.34,Good,446400.0
+Phoenix,Urban,2515.0,2,1,1962,2,Yes,27.28,Fair,389400.0
+New York,Downtown,1563.0,2,2,1984,0,Yes,2.23,Excellent,337200.0
+Los Angeles,Rural,3857.0,4,3,1996,1,No,17.86,Fair,727100.0
+Phoenix,Downtown,2499.0,1,3,1977,1,Yes,17.07,Fair,686700.0
+Phoenix,Downtown,2625.0,4,3,1970,3,No,19.98,Excellent,473900.0
+Chicago,Suburb,3319.0,5,2,1967,2,No,25.09,Good,639700.0
+Los Angeles,Urban,2640.0,3,2,1980,2,Yes,21.91,Excellent,474000.0
+Chicago,Rural,1431.0,4,1,2009,0,Yes,23.81,Excellent,316200.0
+Los Angeles,Suburb,2171.0,2,1,1986,2,Yes,9.02,Excellent,380200.0
+Chicago,Suburb,2606.0,2,3,1970,0,Yes,11.93,Poor,460600.0
+Phoenix,Suburb,2136.0,4,3,1963,1,No,18.99,Fair,405300.0
+Phoenix,Downtown,2325.0,3,2,2009,1,No,16.83,Good,473100.0
+New York,Urban,2427.0,4,2,1972,1,No,28.85,Good,430000.0
+Chicago,Urban,2435.0,3,1,1978,1,No,6.01,Good,453900.0
+Houston,Rural,2542.0,3,1,1996,1,No,10.86,Fair,466100.0
+New York,Urban,1652.0,5,1,1986,0,No,17.4,Fair,340200.0
+Chicago,Urban,1926.0,2,2,1987,1,No,26.1,Good,335200.0
+Chicago,Suburb,1472.0,2,3,1976,0,No,27.92,Fair,277300.0
+New York,Suburb,3282.0,3,1,1964,1,No,10.41,Fair,585200.0
+Phoenix,Downtown,815.0,2,1,2008,0,No,2.48,Poor,198400.0
+Chicago,Suburb,3423.0,1,2,1952,0,Yes,12.94,Fair,542800.0
+Phoenix,Suburb,3609.0,3,1,1959,0,Yes,12.13,Good,617800.0
+New York,Suburb,2258.0,2,3,1966,2,Yes,29.6,Good,386200.0
+Phoenix,Suburb,517.375,1,2,1960,0,No,13.22,Poor,114750.0
+Los Angeles,Downtown,2211.0,5,1,1997,0,Yes,9.52,Fair,449500.0
+Houston,Suburb,2449.0,2,1,1954,1,No,11.28,Good,426500.0
+Chicago,Rural,1692.0,1,2,2018,0,No,12.21,Fair,347600.0
+Houston,Rural,2088.0,4,2,2013,0,Yes,24.74,Excellent,438000.0
+Phoenix,Rural,3724.0,4,1,1963,3,No,2.89,Good,664400.0
+Chicago,Rural,3032.0,1,3,1999,2,Yes,9.84,Excellent,498900.0
+Phoenix,Suburb,2499.0,3,2,1975,3,No,29.01,Good,325000.0
+Los Angeles,Rural,1222.0,3,3,2021,1,No,5.02,Fair,328300.0
+New York,Suburb,2238.0,2,1,2018,2,Yes,22.41,Good,377600.0
+Chicago,Downtown,2329.0,4,3,1956,2,Yes,11.01,Poor,456000.0
+Los Angeles,Rural,2499.0,3,1,1965,3,Yes,17.66,Poor,479800.0
+Los Angeles,Urban,2072.0,3,1,2004,2,Yes,3.44,Poor,423000.0
+Chicago,Rural,2909.0,4,1,2005,3,Yes,9.54,Good,540400.0
+Phoenix,Rural,4048.0,5,1,1953,0,Yes,15.28,Fair,708600.0
+Los Angeles,Suburb,3152.0,3,3,1997,3,No,7.34,Fair,635300.0
+Houston,Rural,2462.0,1,1,1966,2,No,16.49,Good,389500.0
+Los Angeles,Urban,2353.0,2,1,1985,2,No,6.98,Excellent,407100.0
+Phoenix,Suburb,2215.0,3,3,2019,1,No,19.68,Fair,423600.0
+Phoenix,Suburb,3445.0,3,2,1987,1,Yes,27.18,Good,588800.0
+Houston,Downtown,1998.0,5,3,2011,1,No,3.02,Fair,512200.0
+Los Angeles,Downtown,2536.0,1,3,1997,1,No,6.89,Excellent,454600.0
+Phoenix,Rural,2541.0,2,3,1959,2,Yes,25.41,Fair,400500.0
+Chicago,Downtown,2099.0,3,1,1986,1,No,19.13,Excellent,407700.0
+New York,Downtown,1402.0,2,1,1978,3,Yes,2.82,Fair,324400.0
+New York,Downtown,2758.0,4,1,1953,0,Yes,14.85,Excellent,504900.0
+New York,Suburb,2451.0,3,2,1993,2,Yes,6.69,Fair,485200.0
+Los Angeles,Suburb,2900.0,3,1,2005,1,No,6.37,Fair,538800.0
+Houston,Suburb,2073.0,4,2,1991,2,Yes,28.25,Fair,408200.0
+Phoenix,Downtown,3477.0,5,1,1962,1,No,22.97,Fair,619100.0
+Chicago,Suburb,1799.0,3,3,1995,2,No,21.04,Excellent,372500.0
+Chicago,Downtown,3870.0,2,1,1982,1,No,7.55,Good,635100.0
+Los Angeles,Suburb,1102.0,1,2,1970,0,Yes,4.0,Good,234500.0
+New York,Suburb,2848.0,2,2,2006,1,Yes,26.19,Excellent,484300.0
+Los Angeles,Urban,2880.0,5,1,2018,3,Yes,0.67,Good,580600.0
+Houston,Rural,1864.0,1,3,2019,2,No,11.95,Excellent,372300.0
+Houston,Downtown,2840.0,2,1,2016,2,No,8.69,Fair,502300.0
+Phoenix,Urban,3524.0,2,1,1986,3,Yes,17.33,Excellent,586500.0
+Phoenix,Suburb,727.0,4,1,1982,3,No,7.89,Poor,224100.0
+Houston,Downtown,2902.0,5,3,1985,0,Yes,9.68,Good,600400.0
+Houston,Suburb,2499.0,4,2,1982,2,Yes,25.58,Good,156700.0
+Houston,Rural,1727.0,1,3,1980,0,No,18.29,Good,322200.0
+Los Angeles,Urban,3803.0,4,2,1970,2,No,4.8,Good,704100.0
+Houston,Rural,2499.0,5,2,1976,2,Yes,21.93,Fair,432000.0
+Chicago,Urban,1561.0,3,2,2021,0,No,6.62,Excellent,364000.0
+New York,Suburb,2342.0,3,3,2011,2,Yes,13.27,Excellent,482300.0
+Houston,Rural,4154.0,1,1,1975,2,Yes,19.57,Excellent,638100.0
+New York,Rural,1035.0,3,1,2015,0,No,8.52,Excellent,297400.0
+Los Angeles,Suburb,1659.0,4,1,1961,1,Yes,11.83,Good,337700.0
+New York,Rural,3698.0,1,1,1971,0,No,22.16,Excellent,585700.0
+Los Angeles,Downtown,3986.0,5,1,1966,2,Yes,28.17,Excellent,670300.0
+Chicago,Urban,2417.0,1,3,1956,3,No,16.11,Good,417000.0
+Los Angeles,Urban,1509.0,1,3,2017,1,No,0.79,Good,341300.0
+Los Angeles,Urban,4177.0,2,3,1986,3,Yes,10.48,Excellent,729500.0
+Phoenix,Downtown,3776.0,2,3,1987,1,No,12.26,Good,645700.0
+Houston,Urban,3043.0,1,3,1960,3,No,10.51,Good,524300.0
+Houston,Suburb,1850.0,3,3,1986,1,Yes,13.37,Poor,361500.0
+Chicago,Rural,2461.0,2,3,1986,0,No,19.16,Excellent,453100.0
+Chicago,Downtown,2372.0,5,1,1991,1,Yes,4.07,Excellent,483000.0
+Houston,Urban,2765.0,4,2,2001,1,No,8.54,Fair,550800.0
+Phoenix,Suburb,3661.0,2,3,1973,1,Yes,15.48,Fair,627300.0
+Houston,Rural,3204.0,1,2,2002,2,Yes,9.81,Fair,577800.0
+Phoenix,Rural,2499.0,3,3,2005,3,Yes,29.74,Good,348500.0
+Chicago,Downtown,3601.0,4,3,2012,0,Yes,13.23,Fair,703300.0
+New York,Downtown,2751.0,2,1,1957,3,No,26.16,Good,420300.0
+Chicago,Downtown,3050.0,3,2,2008,3,Yes,26.95,Excellent,529800.0
+Chicago,Suburb,3673.0,3,1,1994,0,No,25.16,Good,610600.0
+Los Angeles,Suburb,2499.0,3,1,1976,2,Yes,1.88,Fair,356100.0
+Los Angeles,Downtown,2471.0,1,2,2001,1,No,28.46,Excellent,407900.0
+Los Angeles,Urban,2075.0,5,1,1967,2,Yes,4.3,Good,427900.0
+Los Angeles,Rural,1246.0,3,3,1965,2,No,1.51,Fair,298800.0
+Phoenix,Rural,2777.0,4,3,2015,1,No,12.72,Good,579500.0
+Houston,Suburb,4462.375,2,3,1954,3,Yes,6.24,Good,770000.0
+New York,Rural,1028.0,4,3,1952,1,Yes,5.93,Excellent,282100.0
+Chicago,Urban,2474.0,1,3,2019,0,Yes,8.99,Excellent,465200.0
+Phoenix,Rural,3012.0,1,1,1956,1,No,7.83,Fair,500600.0
+New York,Suburb,2598.0,4,1,1999,3,No,20.7,Fair,465000.0
+Phoenix,Suburb,2409.0,5,3,1963,2,No,6.01,Poor,514600.0
+Phoenix,Urban,1461.0,1,3,1987,2,No,16.52,Good,284300.0
+Chicago,Urban,2686.0,1,1,1996,1,Yes,29.6,Good,396000.0
+Houston,Rural,1895.0,4,2,1982,0,Yes,13.26,Good,393600.0
+Los Angeles,Rural,748.0,1,1,1992,3,Yes,19.44,Fair,176600.0
+Houston,Suburb,3456.0,5,1,1978,2,Yes,29.1,Excellent,589700.0
+Chicago,Urban,3267.0,5,1,2006,1,No,4.56,Excellent,638800.0
+Chicago,Urban,2541.0,5,1,1954,0,No,12.85,Fair,454300.0
+Chicago,Urban,2683.0,2,1,2009,0,Yes,25.58,Good,446700.0
+New York,Rural,3359.0,5,2,2019,2,No,28.0,Good,609200.0
+Houston,Urban,2679.0,5,3,1951,2,Yes,18.24,Fair,518600.0
+Houston,Suburb,3223.0,2,3,2019,3,No,4.73,Fair,612900.0
+Phoenix,Suburb,2262.0,3,2,1992,0,No,27.09,Fair,392200.0
+Phoenix,Rural,3550.0,1,3,1953,3,No,5.65,Fair,604300.0
+Phoenix,Downtown,2757.0,5,3,2005,0,No,10.91,Good,565500.0
+Chicago,Rural,2655.0,1,3,2008,0,No,11.58,Fair,462100.0
+Houston,Downtown,1484.0,4,2,1958,1,No,13.7,Fair,336900.0
+Chicago,Urban,2730.0,1,2,1952,2,Yes,23.81,Good,411500.0
+New York,Rural,1834.0,2,3,1997,0,No,24.16,Poor,341900.0
+Phoenix,Suburb,1989.0,1,3,1992,3,Yes,21.73,Good,345300.0
+Chicago,Urban,1848.0,1,3,1950,2,Yes,1.15,Good,356200.0
+Chicago,Suburb,1647.0,1,1,2006,3,Yes,17.16,Good,289200.0
+New York,Urban,4200.0,3,1,2002,2,Yes,22.55,Excellent,696400.0
+Los Angeles,Rural,3565.0,3,1,1965,2,Yes,13.62,Fair,592400.0
+Houston,Downtown,4036.0,4,2,2000,0,Yes,28.38,Good,692700.0
+Los Angeles,Urban,1522.0,2,3,2004,1,No,24.8,Fair,308100.0
+Phoenix,Downtown,2557.0,1,2,1950,0,No,19.33,Excellent,409700.0
+Chicago,Urban,1465.0,1,2,1977,2,No,2.34,Excellent,308400.0
+New York,Suburb,1943.0,1,2,2002,0,Yes,19.74,Fair,352400.0
+New York,Suburb,1765.0,1,3,2007,0,Yes,27.39,Good,333100.0
+Houston,Urban,3492.0,3,1,1986,2,Yes,11.69,Poor,644700.0
+Los Angeles,Downtown,2183.0,4,3,2009,2,No,25.22,Excellent,447300.0
+Houston,Rural,3355.0,5,3,2008,0,No,9.74,Fair,683600.0
+Chicago,Rural,2983.0,2,2,1971,0,No,17.32,Excellent,511300.0
+Houston,Suburb,4343.0,1,2,1957,0,Yes,19.63,Fair,698600.0
+New York,Rural,1316.0,4,2,1998,3,Yes,20.5,Good,277100.0
+New York,Suburb,3507.0,5,1,1991,0,Yes,26.54,Excellent,616700.0
+Phoenix,Rural,3417.0,4,1,1976,3,No,7.42,Excellent,624900.0
+Phoenix,Urban,1721.0,3,1,1988,1,Yes,8.24,Fair,357200.0
+Chicago,Suburb,3306.0,5,3,1974,3,Yes,21.27,Good,623100.0
+Los Angeles,Suburb,2769.0,4,2,1987,0,Yes,5.73,Fair,520500.0
+Houston,Urban,2318.0,3,3,1973,1,Yes,14.2,Good,446100.0
+Chicago,Suburb,1841.0,4,1,1973,3,No,1.09,Fair,405700.0
+Phoenix,Rural,1925.0,4,2,2009,3,No,4.66,Fair,427200.0
+Houston,Rural,4140.0,5,1,1999,2,Yes,20.53,Good,733800.0
+Phoenix,Suburb,2501.0,3,2,2015,1,Yes,22.55,Fair,494300.0
+Houston,Rural,3126.0,1,2,1963,2,No,3.9,Good,527800.0
+Los Angeles,Downtown,1867.0,2,3,2002,1,No,7.22,Fair,387200.0
+Chicago,Suburb,1876.0,5,3,1981,3,Yes,3.42,Fair,451000.0
+Houston,Urban,3366.0,3,1,1997,2,No,13.29,Good,593400.0
+New York,Downtown,2499.0,4,3,1988,0,No,4.22,Poor,363600.0
+New York,Suburb,2168.0,3,3,1989,3,Yes,13.4,Fair,441800.0
+Houston,Urban,2527.0,2,3,1991,1,No,22.1,Good,435500.0
+Houston,Rural,2589.0,2,2,1957,1,No,20.66,Good,431700.0
+Houston,Urban,2357.0,1,3,1975,2,No,8.77,Good,408100.0
+New York,Downtown,2817.0,1,1,1961,2,No,20.38,Fair,436100.0
+New York,Rural,3054.0,2,2,1992,1,Yes,27.87,Fair,515400.0
+Houston,Suburb,3088.0,5,2,2000,3,No,10.75,Excellent,607600.0
+Phoenix,Rural,1711.0,5,3,2012,2,No,10.21,Excellent,411000.0
+Phoenix,Suburb,2273.0,4,2,1998,0,Yes,17.36,Poor,446800.0
+Los Angeles,Suburb,3456.0,1,1,1976,1,No,7.74,Good,590900.0
+Chicago,Urban,3216.0,4,1,1958,0,Yes,19.72,Fair,576700.0
+Phoenix,Urban,1402.0,1,2,1988,1,Yes,25.05,Fair,234100.0
+New York,Urban,2781.0,2,3,1986,0,No,14.05,Fair,510800.0
+Phoenix,Downtown,917.0,5,3,2020,3,No,20.55,Good,287800.0
+Los Angeles,Downtown,2538.0,5,2,2020,1,No,19.73,Fair,537800.0
+Los Angeles,Urban,4018.0,2,1,1956,3,No,1.64,Excellent,644200.0
+Chicago,Downtown,1742.0,4,2,2021,2,No,5.91,Good,399700.0
+Phoenix,Rural,1833.0,4,3,2016,1,Yes,26.86,Fair,398400.0
+New York,Rural,3111.0,3,3,1959,3,No,28.2,Good,537200.0
+New York,Downtown,1266.0,1,2,2020,0,Yes,23.52,Poor,234400.0
+Houston,Downtown,1994.0,4,1,2002,3,No,27.68,Good,374000.0
+New York,Rural,2977.0,2,2,2006,1,Yes,9.53,Fair,543500.0
+Chicago,Suburb,1993.0,4,1,1976,3,No,7.81,Fair,398200.0
+Chicago,Rural,2311.0,5,1,2003,0,No,11.84,Fair,461500.0
+New York,Rural,3095.0,1,2,1953,0,No,2.13,Poor,521700.0
+New York,Downtown,2837.0,3,2,1972,0,No,24.39,Fair,493600.0
+Houston,Rural,2713.0,1,1,1997,2,No,29.53,Fair,387500.0
+New York,Downtown,2229.0,5,1,1991,1,Yes,24.81,Excellent,439100.0
+Houston,Downtown,2796.0,5,1,1952,0,No,16.87,Poor,529300.0
+Houston,Urban,2401.0,5,1,1952,2,No,9.21,Fair,465400.0
+New York,Rural,2866.0,5,3,1977,0,No,6.33,Excellent,583700.0
+Los Angeles,Suburb,2102.0,2,2,2012,3,Yes,11.24,Good,395700.0
+Los Angeles,Urban,2354.0,3,1,1980,1,No,20.18,Good,413500.0
+Houston,Downtown,1708.0,5,2,1959,3,Yes,13.69,Poor,367900.0
+New York,Downtown,2472.0,5,1,1998,2,No,28.05,Good,488400.0
+Los Angeles,Suburb,1851.0,4,2,1970,3,Yes,25.7,Fair,361100.0
+New York,Downtown,1609.0,3,2,2002,3,No,3.52,Good,331100.0
+New York,Rural,2707.0,1,1,2003,0,No,4.38,Excellent,480300.0
+New York,Urban,2670.0,3,1,2006,3,Yes,20.45,Good,501400.0
+Phoenix,Downtown,3126.0,3,2,1969,0,No,7.31,Fair,574400.0
+New York,Downtown,2155.0,3,2,1998,0,Yes,23.84,Good,420400.0
+Phoenix,Suburb,2826.0,5,2,1956,1,No,17.95,Good,544200.0
+Houston,Rural,2941.0,5,3,1978,2,No,7.28,Good,613500.0
+Los Angeles,Downtown,2856.0,2,1,1997,2,Yes,14.62,Good,504800.0
+Los Angeles,Suburb,1839.0,1,3,1962,2,No,12.48,Good,349200.0
+Los Angeles,Downtown,2619.0,4,3,1952,0,Yes,26.26,Good,484100.0
+Los Angeles,Suburb,2791.0,3,1,1951,2,Yes,1.45,Excellent,478500.0
+Los Angeles,Suburb,2506.0,1,1,1965,0,No,26.93,Excellent,361200.0
+Los Angeles,Rural,831.0,1,3,1955,1,No,19.74,Fair,149600.0
+Los Angeles,Downtown,2628.0,2,1,1986,2,No,22.26,Good,401800.0
+Houston,Rural,4270.0,4,2,2020,0,Yes,0.58,Fair,790800.0
+New York,Suburb,2212.0,3,2,1954,2,Yes,19.03,Good,420000.0
+Chicago,Urban,1918.0,4,3,2005,2,No,17.86,Fair,395900.0
+Phoenix,Downtown,2799.0,2,3,2020,1,Yes,16.35,Good,531100.0
+Chicago,Urban,2750.0,5,1,1981,3,Yes,23.68,Good,516600.0
+Chicago,Downtown,3454.0,1,1,1986,2,Yes,16.9,Fair,559700.0
+New York,Rural,1494.0,3,3,1962,1,Yes,25.78,Excellent,314300.0
+New York,Rural,3085.0,5,3,1979,2,No,7.36,Good,619900.0
+New York,Rural,2972.0,2,2,1974,2,No,24.28,Fair,515100.0
+Los Angeles,Rural,2386.0,4,2,2009,2,No,5.79,Good,495800.0
+Houston,Rural,2771.0,1,1,2008,2,Yes,24.49,Excellent,448800.0
+Los Angeles,Urban,3324.0,3,2,1977,3,Yes,28.24,Fair,556500.0
+Houston,Rural,3198.0,5,1,2007,3,Yes,10.4,Good,601500.0
+Houston,Suburb,1586.0,5,1,1969,2,Yes,16.13,Good,322900.0
+Chicago,Suburb,3156.0,1,1,1983,2,No,19.92,Excellent,506700.0
+Chicago,Urban,2448.0,4,2,1986,1,Yes,2.84,Good,506700.0
+Houston,Downtown,2558.0,2,3,2009,1,Yes,15.08,Good,484700.0
+Houston,Suburb,2559.0,4,3,1992,0,No,11.14,Excellent,528300.0
+Los Angeles,Downtown,2380.0,4,2,2006,3,No,26.24,Excellent,432200.0
+Los Angeles,Urban,3453.0,4,3,2006,2,No,26.36,Good,637000.0
+Chicago,Downtown,2433.0,1,1,2003,3,Yes,21.17,Poor,365900.0
+New York,Downtown,1604.0,1,3,1994,1,Yes,19.84,Fair,283000.0
+Houston,Downtown,2185.0,2,2,1986,3,Yes,22.14,Good,404500.0
+Los Angeles,Downtown,2643.0,4,3,1997,3,Yes,11.3,Good,535600.0
+Chicago,Urban,3483.0,1,1,2003,2,Yes,12.43,Fair,573700.0
+Los Angeles,Suburb,2499.0,2,1,1997,2,Yes,16.83,Fair,513400.0
+Houston,Rural,1820.0,2,2,1955,1,No,28.17,Good,314100.0
+Houston,Downtown,4462.375,4,2,1983,2,Yes,21.86,Fair,764900.0
+Phoenix,Suburb,2712.0,3,2,2012,1,No,16.75,Fair,511700.0
+New York,Suburb,3520.0,4,1,1997,1,No,23.23,Fair,612000.0
+Phoenix,Urban,2379.0,3,3,1972,0,No,11.44,Good,440000.0
+Chicago,Suburb,2927.0,2,3,1962,0,Yes,22.05,Good,493600.0
+Los Angeles,Urban,3172.0,1,2,1996,0,Yes,12.61,Fair,542800.0
+Chicago,Downtown,3475.0,5,3,1993,3,No,8.75,Fair,677500.0
+Houston,Downtown,3346.0,2,3,1981,0,Yes,18.49,Good,572800.0
+Phoenix,Rural,3198.0,1,2,1975,2,Yes,20.76,Good,525400.0
+Phoenix,Rural,2248.0,2,2,2002,2,No,14.05,Good,420500.0
+Phoenix,Rural,2043.0,4,1,1963,0,Yes,17.18,Fair,391900.0
+Chicago,Suburb,2766.0,3,1,2001,3,Yes,20.97,Good,462100.0
+Houston,Downtown,3247.0,2,1,1986,1,Yes,23.15,Excellent,533000.0
+Los Angeles,Urban,2322.0,1,1,1957,3,Yes,26.92,Fair,329300.0
+Los Angeles,Rural,3352.0,4,3,1989,3,No,10.96,Good,638000.0
+Chicago,Urban,2499.0,5,3,1971,1,No,28.57,Fair,644700.0
+Phoenix,Urban,1767.0,4,1,1965,1,Yes,19.3,Fair,355900.0
+New York,Rural,2499.0,3,1,2009,1,Yes,23.74,Poor,372000.0
+Chicago,Downtown,2388.0,4,2,2009,2,Yes,21.14,Good,466200.0
+Chicago,Rural,2746.0,5,3,1959,1,No,6.56,Poor,558900.0
+Houston,Urban,2080.0,1,3,1974,1,Yes,2.61,Fair,412200.0
+Los Angeles,Rural,3582.0,2,1,1980,3,Yes,21.93,Fair,585000.0
+Chicago,Urban,2839.0,3,3,1970,3,No,15.58,Poor,521600.0
+Chicago,Urban,2532.0,5,2,1982,0,Yes,21.22,Good,501900.0
+Phoenix,Rural,1351.0,3,2,1980,3,No,14.57,Fair,322000.0
+Phoenix,Suburb,1447.0,4,3,1970,1,Yes,9.71,Fair,335600.0
+New York,Rural,2725.0,3,1,1985,2,No,8.91,Good,487600.0
+Houston,Suburb,794.0,5,3,2014,3,Yes,22.05,Good,276900.0
+New York,Urban,3310.0,2,2,1953,3,Yes,8.67,Good,595300.0
+Phoenix,Urban,2373.0,2,1,2017,1,No,21.58,Poor,416900.0
+Los Angeles,Suburb,4462.375,3,3,1953,3,No,11.83,Good,813550.0
+Phoenix,Urban,4346.0,1,1,1958,3,No,23.24,Fair,663300.0
+Houston,Suburb,2355.0,3,1,1979,1,No,4.71,Poor,438500.0
+Phoenix,Suburb,2415.0,4,2,1994,3,No,6.55,Good,501300.0
+Houston,Urban,3296.0,2,1,1953,2,Yes,20.73,Excellent,502100.0
+Houston,Downtown,3863.0,2,3,2018,0,No,17.03,Good,655300.0
+Houston,Suburb,1190.0,2,1,1972,3,No,6.51,Poor,240000.0
+Houston,Rural,2499.0,1,1,1965,2,No,27.13,Excellent,186700.0
+Houston,Rural,2002.0,1,3,1971,3,No,8.64,Poor,350900.0
+Los Angeles,Urban,2966.0,5,2,2021,0,Yes,12.92,Excellent,592800.0
+New York,Downtown,2897.0,3,2,1997,1,Yes,6.47,Fair,526200.0
+Chicago,Urban,3356.0,3,3,2011,0,Yes,11.95,Fair,632300.0
+New York,Downtown,1540.0,4,3,2009,3,Yes,15.0,Good,371800.0
+Houston,Suburb,647.0,2,2,1954,0,Yes,9.21,Excellent,142300.0
+Los Angeles,Suburb,3186.0,1,1,1956,0,No,23.19,Excellent,501800.0
+Phoenix,Suburb,1837.0,4,3,2000,1,Yes,12.12,Good,385500.0
+Los Angeles,Suburb,885.0,4,1,2014,3,Yes,22.02,Good,252400.0
+Houston,Rural,2616.0,1,3,1958,0,No,6.61,Good,481800.0
+Los Angeles,Rural,3135.0,3,2,1994,0,No,11.62,Good,576600.0
+Los Angeles,Urban,2402.0,2,1,1996,1,Yes,0.74,Excellent,463300.0
+Houston,Downtown,2134.0,3,1,2016,2,Yes,22.88,Poor,392700.0
+Los Angeles,Suburb,2373.0,4,3,1973,3,No,18.96,Fair,444400.0
+Chicago,Suburb,2204.0,2,1,1959,2,Yes,24.63,Excellent,357400.0
+Chicago,Downtown,1422.0,5,3,2022,2,No,13.94,Excellent,355900.0
+Los Angeles,Downtown,1928.0,4,2,1997,1,No,24.09,Poor,387400.0
+Phoenix,Urban,2917.0,3,1,1984,1,Yes,19.6,Fair,484800.0
+Houston,Downtown,2757.0,3,3,2003,3,Yes,0.61,Excellent,571500.0
+Chicago,Suburb,2634.0,3,1,2020,2,Yes,7.98,Good,507800.0
+Phoenix,Suburb,1704.0,1,3,1965,0,No,15.07,Good,321100.0
+Los Angeles,Suburb,2355.0,4,3,2002,2,No,18.75,Fair,484900.0
+Phoenix,Suburb,758.0,2,3,1989,1,Yes,2.43,Excellent,254600.0
+New York,Suburb,2643.0,3,2,1969,0,Yes,21.3,Fair,481700.0
+Chicago,Urban,3643.0,3,1,2018,0,Yes,16.53,Fair,660900.0
+Los Angeles,Suburb,1321.0,1,2,1994,1,No,16.01,Fair,237600.0
+Houston,Urban,2031.0,2,3,1955,0,No,9.12,Excellent,378800.0
+Los Angeles,Suburb,2763.0,4,3,2018,2,No,18.05,Good,514000.0
+Houston,Rural,3502.0,5,2,1998,1,Yes,1.31,Good,683800.0
+Los Angeles,Rural,2141.0,1,2,1988,3,No,2.41,Fair,397800.0
+Phoenix,Rural,1946.0,4,1,1951,1,No,22.15,Excellent,362600.0
+Phoenix,Rural,925.0,5,3,1988,3,Yes,10.0,Good,287800.0
+Phoenix,Urban,2583.0,3,2,1970,3,No,10.74,Good,490000.0
+New York,Urban,4134.0,3,3,1986,1,Yes,6.65,Excellent,754300.0
+Houston,Downtown,2722.0,2,3,1986,1,No,13.65,Fair,498400.0
+Phoenix,Suburb,2482.0,5,1,1961,3,Yes,2.03,Good,487400.0
+New York,Rural,2758.0,3,1,1986,3,Yes,9.36,Excellent,502000.0
+Houston,Urban,2491.0,3,1,1987,0,No,16.05,Good,449500.0
+Los Angeles,Suburb,1850.0,2,2,1964,1,Yes,14.24,Good,329900.0
+New York,Suburb,3159.0,4,3,1956,1,No,29.99,Poor,551000.0
+Chicago,Urban,2681.0,3,2,1999,0,Yes,11.97,Good,484400.0
+New York,Rural,2499.0,1,2,2014,1,Yes,11.92,Good,458400.0
+New York,Downtown,1720.0,1,1,2016,0,Yes,15.36,Fair,318700.0
+Houston,Suburb,3543.0,4,3,1993,0,No,6.11,Excellent,679500.0
+Los Angeles,Downtown,2499.0,5,3,1980,1,Yes,26.35,Fair,586600.0
+Chicago,Rural,2058.0,2,1,1992,2,Yes,17.38,Fair,364900.0
+Phoenix,Rural,3301.0,1,3,1997,3,No,6.17,Good,608600.0
+Phoenix,Downtown,2102.0,1,1,2010,1,Yes,23.91,Good,326000.0
+New York,Rural,1874.0,4,2,1959,2,Yes,1.51,Poor,408600.0
+Houston,Suburb,1892.0,5,2,1978,0,Yes,29.49,Fair,395400.0
+Houston,Downtown,1083.0,5,1,1997,2,Yes,26.02,Poor,284300.0
+Phoenix,Rural,2877.0,4,2,2011,1,No,17.6,Fair,561700.0
+Chicago,Downtown,1035.0,1,2,1962,1,Yes,3.78,Poor,201100.0
+Los Angeles,Suburb,1517.0,2,1,1993,2,Yes,6.85,Fair,278500.0
+Chicago,Rural,840.0,1,2,1996,1,No,8.74,Fair,192000.0
+Los Angeles,Suburb,2431.0,5,3,2013,3,Yes,7.61,Good,544400.0
+Phoenix,Rural,2380.0,1,2,2002,2,Yes,15.18,Excellent,429800.0
+Los Angeles,Urban,2239.0,2,1,1993,0,No,28.36,Good,352200.0
+Houston,Rural,1666.0,3,3,1977,2,No,13.6,Good,363400.0
+New York,Downtown,1562.0,1,3,1951,2,No,20.02,Fair,232600.0
+New York,Rural,2871.0,4,2,2006,2,No,20.81,Good,528900.0
+Phoenix,Suburb,2060.0,3,3,2006,2,Yes,26.21,Good,415500.0
+Houston,Suburb,2753.0,4,1,1983,0,No,1.5,Good,516600.0
+Chicago,Rural,1792.0,4,3,2007,0,Yes,12.43,Fair,393900.0
+Houston,Downtown,2645.0,4,2,2001,0,No,23.65,Fair,490100.0
+New York,Urban,3543.0,1,2,1978,2,Yes,24.54,Good,562000.0
+New York,Downtown,2969.0,5,3,1984,3,No,27.86,Good,547900.0
+Houston,Urban,2170.0,3,1,1997,3,No,21.23,Excellent,394100.0
+Houston,Suburb,2706.0,2,1,1982,0,Yes,7.73,Fair,468000.0
+New York,Downtown,2499.0,5,2,2022,3,No,15.42,Poor,511600.0
+Chicago,Urban,2506.0,1,2,1958,3,No,1.45,Good,432700.0
+Phoenix,Rural,2240.0,4,1,1997,3,No,19.58,Excellent,428800.0
+Phoenix,Suburb,2369.0,2,3,2016,3,Yes,16.85,Fair,455100.0
+Houston,Rural,2670.0,3,3,1985,3,No,20.17,Good,489400.0
+Phoenix,Suburb,1705.0,5,3,2020,1,No,27.94,Fair,404400.0
+New York,Downtown,1687.0,5,3,1993,0,Yes,20.77,Good,405700.0
+New York,Downtown,2499.0,2,1,2009,2,Yes,9.95,Good,278600.0
+Houston,Suburb,1220.0,1,2,2012,3,No,6.36,Excellent,268700.0
+Houston,Suburb,1526.0,3,2,1954,1,Yes,25.71,Fair,268600.0
+Houston,Suburb,2628.0,2,3,1989,2,Yes,6.23,Fair,507700.0
+Chicago,Downtown,2499.0,4,1,1968,1,Yes,5.27,Good,377900.0
+Phoenix,Urban,2911.0,3,1,1996,3,No,6.6,Poor,529000.0
+Houston,Rural,2528.0,5,3,2014,3,No,15.51,Good,543100.0
+Los Angeles,Rural,925.0,2,3,2016,3,Yes,4.16,Good,270300.0
+Los Angeles,Downtown,3024.0,5,3,1967,3,No,28.17,Fair,582200.0
+New York,Rural,3149.0,5,2,1999,2,Yes,29.0,Excellent,587800.0
+Phoenix,Suburb,1705.0,5,3,1979,2,No,29.23,Fair,383100.0
+Houston,Urban,2836.0,1,2,2015,1,Yes,1.65,Excellent,546200.0
+Los Angeles,Rural,2499.0,5,1,1986,0,No,28.41,Excellent,329900.0
+Phoenix,Urban,2578.0,4,1,1991,3,Yes,29.92,Good,472900.0
+New York,Suburb,1488.0,4,2,1954,1,No,28.3,Poor,278400.0
+Chicago,Rural,1066.0,3,2,1999,1,No,20.29,Excellent,236100.0
+Phoenix,Downtown,2194.0,5,2,2007,1,Yes,21.19,Good,458000.0
+Phoenix,Urban,2401.0,5,2,1957,3,No,4.11,Fair,488700.0
+Chicago,Suburb,2182.0,2,3,1980,3,No,26.29,Fair,375500.0
+Phoenix,Urban,1553.0,1,1,1961,1,No,2.26,Fair,281000.0
+New York,Rural,2180.0,3,3,1970,3,No,9.87,Excellent,430300.0
+New York,Rural,2715.0,5,2,2011,1,No,29.74,Excellent,511300.0
+Chicago,Downtown,2464.0,2,3,1982,2,No,12.96,Excellent,443400.0
+Houston,Suburb,2646.0,1,3,1975,3,No,4.37,Good,500000.0
+Los Angeles,Suburb,1964.0,3,1,1989,2,No,29.09,Good,325900.0
+Houston,Downtown,3437.0,3,3,2014,0,Yes,29.53,Fair,604000.0
+Phoenix,Downtown,1559.0,5,1,2008,3,No,6.02,Fair,395600.0
+Los Angeles,Suburb,2890.0,3,2,1964,0,Yes,26.01,Fair,503600.0
+Chicago,Urban,3446.0,2,3,1950,1,No,12.02,Good,594400.0
+Chicago,Urban,2885.0,3,2,1960,3,Yes,11.75,Excellent,507900.0
+Los Angeles,Downtown,2338.0,4,1,2004,3,No,8.25,Excellent,468900.0
+New York,Urban,2077.0,2,2,1951,3,Yes,1.82,Fair,374500.0
+Los Angeles,Suburb,3329.0,1,2,2014,0,Yes,8.41,Good,573300.0
+Phoenix,Rural,1362.0,1,1,1993,0,No,2.09,Good,265100.0
+New York,Rural,1724.0,5,2,1965,1,Yes,27.77,Good,350500.0
+Chicago,Urban,2182.0,5,2,1986,2,No,20.02,Good,428900.0
+Los Angeles,Downtown,2499.0,4,2,1967,2,No,26.66,Fair,576200.0
+Houston,Downtown,2499.0,1,3,1996,0,Yes,21.66,Excellent,497100.0
+Houston,Downtown,1726.0,1,2,1979,3,No,4.37,Good,343100.0
+Phoenix,Downtown,2252.0,1,1,1959,2,Yes,28.25,Good,346900.0
+Houston,Downtown,2009.0,1,3,2007,2,Yes,27.05,Fair,359400.0
+Los Angeles,Urban,1932.0,3,3,2011,0,No,10.77,Fair,419300.0
+Los Angeles,Rural,3283.0,2,1,1955,1,No,3.79,Fair,545000.0
+Houston,Rural,1403.0,2,2,2016,0,No,21.27,Good,275100.0
+Los Angeles,Urban,3787.0,4,3,1990,0,No,21.99,Excellent,703900.0
+Phoenix,Downtown,3163.0,3,3,1992,3,No,26.96,Good,584800.0
+New York,Urban,3373.0,1,3,1967,0,Yes,2.05,Good,585600.0
+Phoenix,Rural,2130.0,1,2,2007,3,Yes,4.68,Good,401700.0
+Phoenix,Suburb,2380.0,5,3,2009,1,No,18.15,Fair,519200.0
+Los Angeles,Urban,1353.0,5,1,1976,3,No,18.76,Good,307800.0
+New York,Downtown,2080.0,4,2,2017,1,No,1.49,Good,468100.0
+Los Angeles,Rural,2895.0,1,1,1971,1,Yes,12.21,Fair,467400.0
+Chicago,Rural,3537.0,4,1,1973,1,Yes,17.73,Fair,600500.0
+Los Angeles,Rural,1614.0,3,3,1989,0,Yes,22.27,Good,329500.0
+Los Angeles,Rural,2208.0,2,3,2023,3,No,9.83,Fair,444000.0
+Los Angeles,Downtown,2379.0,1,3,2015,2,No,14.78,Excellent,400000.0
+New York,Suburb,1383.0,3,1,1989,0,Yes,24.51,Good,267200.0
+Los Angeles,Rural,2973.0,1,2,1955,1,No,28.64,Fair,489000.0
+New York,Urban,1921.0,5,3,1967,2,No,7.29,Fair,433600.0
+Houston,Suburb,2499.0,4,3,1979,0,Yes,7.96,Excellent,488700.0
+Chicago,Rural,2138.0,5,1,1970,2,Yes,28.22,Good,389700.0
+New York,Suburb,1869.0,2,2,2011,1,No,12.18,Good,353100.0
+Houston,Urban,2494.0,5,1,1959,2,Yes,21.69,Poor,458600.0
+New York,Rural,2328.0,1,3,1962,2,No,18.56,Excellent,405500.0
+New York,Urban,2203.0,5,1,1958,1,Yes,8.92,Good,441100.0
+Chicago,Downtown,1917.0,1,3,2017,2,Yes,19.78,Good,353900.0
+Phoenix,Rural,2756.0,2,2,1988,0,No,19.84,Excellent,483200.0
+Phoenix,Rural,3823.0,5,1,1973,2,No,17.98,Fair,680000.0
+New York,Rural,2612.0,4,3,1983,3,Yes,3.44,Good,543600.0
+Los Angeles,Rural,3297.0,4,3,2010,0,No,29.86,Poor,620700.0
+Houston,Downtown,1388.0,4,3,1990,2,Yes,12.31,Good,357500.0
+Los Angeles,Rural,2626.0,5,3,1954,3,No,19.33,Fair,537700.0
+Los Angeles,Suburb,1622.0,5,1,1999,3,Yes,26.63,Excellent,324300.0
+New York,Rural,1318.0,5,3,1953,3,Yes,12.99,Fair,344100.0
+New York,Downtown,1909.0,1,1,2000,2,Yes,23.33,Good,337400.0
+New York,Rural,2499.0,2,3,2001,1,No,29.17,Excellent,558800.0
+New York,Suburb,3260.0,4,1,1988,3,Yes,11.09,Excellent,593500.0
+Phoenix,Downtown,2694.0,1,1,1957,1,Yes,12.46,Good,422500.0
+New York,Downtown,1274.0,4,3,1994,0,Yes,27.21,Good,296300.0
+Phoenix,Suburb,2343.0,1,3,1977,1,Yes,5.21,Poor,449700.0
+Phoenix,Suburb,2741.0,5,3,1976,1,No,1.34,Poor,558500.0
+New York,Suburb,2640.0,4,3,2014,1,No,27.31,Good,515100.0
+Chicago,Suburb,2499.0,5,2,1983,1,Yes,24.74,Poor,255300.0
+Houston,Suburb,1788.0,4,3,2011,1,Yes,29.19,Fair,396000.0
+Los Angeles,Downtown,2449.0,3,3,2011,0,No,2.22,Poor,517700.0
+Phoenix,Downtown,2929.0,1,3,1987,0,Yes,5.11,Good,523300.0
+Houston,Rural,743.0,3,1,1975,1,No,3.61,Good,194000.0
+Chicago,Rural,2370.0,1,3,1973,1,Yes,20.66,Fair,443500.0
+Los Angeles,Urban,2614.0,2,1,1988,3,No,18.38,Fair,446500.0
+Los Angeles,Rural,3180.0,4,1,1970,0,Yes,11.1,Good,551500.0
+Phoenix,Rural,3054.0,2,1,1996,2,No,2.19,Good,532600.0
+New York,Suburb,2966.0,2,1,1997,0,No,19.37,Good,503800.0
+Chicago,Suburb,1860.0,1,2,1986,2,No,17.32,Excellent,302400.0
+Phoenix,Rural,2499.0,3,3,1952,3,Yes,3.83,Fair,248300.0
+Chicago,Urban,2186.0,5,1,1981,1,No,27.31,Poor,431600.0
+New York,Suburb,3301.0,1,3,1984,3,No,6.37,Poor,590900.0
+New York,Rural,3615.0,5,1,1968,1,Yes,22.43,Good,625800.0
+Phoenix,Rural,3068.0,2,2,1963,0,Yes,26.61,Good,514000.0
+New York,Downtown,2843.0,5,1,1997,1,Yes,17.59,Fair,532100.0
+Houston,Urban,2804.0,3,3,2017,2,Yes,7.78,Good,581900.0
+Los Angeles,Downtown,2055.0,1,3,1994,2,No,9.62,Good,397100.0
+Phoenix,Urban,2396.0,3,2,1968,3,Yes,26.63,Excellent,422500.0
+Chicago,Suburb,3835.0,3,3,2013,0,Yes,9.3,Good,700400.0
+Houston,Urban,1746.0,1,3,2015,2,Yes,22.51,Good,318300.0
+Phoenix,Rural,3792.0,3,1,2015,3,Yes,29.71,Good,595000.0
+New York,Rural,2242.0,4,3,1994,0,Yes,29.99,Excellent,431900.0
+New York,Urban,3560.0,4,1,2023,0,Yes,16.24,Excellent,645900.0
+New York,Urban,1375.0,4,2,2016,3,Yes,24.88,Good,285100.0
+New York,Urban,2969.0,5,3,2018,2,No,29.71,Good,590300.0
+Chicago,Downtown,1911.0,3,1,1952,2,No,11.55,Good,350100.0
+Houston,Urban,1368.0,1,3,1987,3,No,7.95,Good,304000.0
+Los Angeles,Suburb,2675.0,1,1,1991,2,No,3.87,Good,451800.0
+Chicago,Downtown,2499.0,5,2,1989,3,No,4.66,Fair,667900.0
+Chicago,Downtown,1824.0,1,1,1999,2,Yes,25.68,Excellent,288000.0
+Los Angeles,Urban,1301.0,4,3,1984,2,Yes,17.87,Good,313700.0
+Los Angeles,Suburb,2427.0,3,1,1973,3,Yes,26.27,Excellent,414200.0
+New York,Downtown,2430.0,1,3,1966,3,Yes,23.79,Good,402300.0
+Chicago,Rural,2939.0,1,2,1989,2,No,20.38,Good,487200.0
+Phoenix,Downtown,3260.0,2,1,2023,3,No,18.47,Fair,527700.0
+Los Angeles,Urban,2452.0,2,3,2015,2,Yes,1.93,Good,492300.0
+Los Angeles,Suburb,3984.0,2,3,1993,1,Yes,26.23,Good,663400.0
+Houston,Urban,2679.0,3,3,1972,0,No,12.83,Fair,475400.0
+Phoenix,Rural,2223.0,4,1,1955,0,No,17.01,Excellent,419600.0
+Phoenix,Rural,1211.0,4,1,2015,2,No,1.15,Fair,306200.0
+Los Angeles,Rural,2290.0,4,1,1970,0,Yes,28.11,Good,419400.0
+New York,Urban,2231.0,3,2,1984,2,Yes,27.13,Fair,401700.0
+Houston,Downtown,3268.0,3,3,1978,3,No,16.53,Excellent,580500.0
+Phoenix,Urban,2870.0,2,3,1956,1,No,17.53,Fair,511500.0
+Los Angeles,Suburb,1557.0,1,2,2002,0,Yes,21.3,Good,304900.0
+Phoenix,Downtown,2638.0,5,2,1986,0,Yes,8.31,Fair,540700.0
+Houston,Rural,3037.0,5,1,1972,3,Yes,7.05,Good,601100.0
+Houston,Urban,3722.0,1,1,1957,1,Yes,20.38,Excellent,566400.0
+Chicago,Rural,3210.0,2,1,1997,1,No,3.58,Fair,580300.0
+Los Angeles,Rural,3109.0,1,1,1959,1,No,13.89,Good,485600.0
+Houston,Suburb,2548.0,1,1,1973,3,No,15.04,Fair,439000.0
+Chicago,Downtown,2811.0,5,1,1996,0,Yes,11.75,Good,565300.0
+Chicago,Suburb,3500.0,2,2,2002,0,Yes,5.97,Good,629100.0
+Phoenix,Suburb,1434.0,3,2,1988,1,Yes,10.98,Good,277100.0
+Phoenix,Suburb,2220.0,5,2,2016,3,No,10.46,Good,494800.0
+Chicago,Rural,1882.0,3,3,2015,3,No,15.23,Good,383800.0
+Phoenix,Suburb,2803.0,2,3,1955,3,No,20.4,Fair,485400.0
+Houston,Suburb,3484.0,1,1,1970,1,Yes,29.06,Good,541600.0
+New York,Downtown,2022.0,4,2,2022,3,Yes,4.75,Poor,463100.0
+Houston,Downtown,588.0,4,3,2023,1,No,26.25,Good,223100.0
+Chicago,Suburb,2170.0,2,3,1985,1,Yes,8.88,Excellent,417600.0
+Chicago,Downtown,3231.0,4,2,1952,1,No,17.95,Fair,549900.0
+Houston,Downtown,2930.0,3,3,1991,2,No,16.63,Fair,533200.0
+Phoenix,Suburb,2843.0,4,3,1994,1,No,16.93,Poor,547600.0
+Phoenix,Rural,2276.0,2,2,1993,3,No,21.84,Excellent,402000.0
+Chicago,Suburb,1477.0,2,3,1982,2,Yes,11.76,Excellent,331100.0
+Los Angeles,Downtown,2912.0,3,2,2009,0,Yes,9.91,Fair,560400.0
+Phoenix,Rural,1833.0,4,3,2019,0,Yes,25.66,Good,429400.0
+Houston,Urban,4247.0,4,2,1975,3,Yes,6.99,Fair,743600.0
+Phoenix,Rural,2956.0,1,3,1986,3,Yes,5.82,Good,537200.0
+Houston,Downtown,2035.0,5,3,1951,3,Yes,0.96,Good,475000.0
+Chicago,Rural,2011.0,2,2,1996,3,No,6.71,Good,392500.0
+Phoenix,Suburb,2426.0,1,3,1979,2,Yes,15.8,Excellent,410400.0
+Houston,Urban,2308.0,2,2,1976,3,Yes,16.39,Good,400200.0
+Chicago,Urban,3393.0,1,2,2020,1,Yes,8.01,Fair,581000.0
+Los Angeles,Urban,2649.0,5,3,1969,0,No,2.63,Good,585300.0
+Houston,Downtown,1915.0,1,1,1999,3,Yes,22.47,Good,327200.0
+Los Angeles,Downtown,4012.0,2,3,1972,1,No,22.86,Excellent,678100.0
+Los Angeles,Urban,2539.0,4,1,1962,3,Yes,29.94,Fair,436300.0
+New York,Rural,3115.0,2,1,1953,1,Yes,27.05,Good,479200.0
+Phoenix,Urban,2013.0,3,3,1963,2,Yes,27.82,Good,375900.0
+Houston,Rural,2790.0,3,1,1969,0,No,24.05,Good,469400.0
+Los Angeles,Rural,2749.0,3,2,1962,0,No,18.66,Fair,482600.0
+New York,Downtown,988.0,3,2,1952,2,Yes,4.29,Excellent,249100.0
+Chicago,Rural,4112.0,5,1,1996,1,Yes,18.86,Fair,714100.0
+Houston,Urban,3533.0,4,2,1952,3,Yes,2.15,Fair,653700.0
+Los Angeles,Downtown,2182.0,4,3,1950,1,No,26.62,Excellent,410400.0
+Phoenix,Suburb,1618.0,2,2,1973,0,No,14.71,Poor,297100.0
+New York,Suburb,2778.0,1,1,1984,2,Yes,21.08,Fair,449100.0
+Los Angeles,Downtown,2569.0,2,3,1963,2,No,2.04,Good,512700.0
+Phoenix,Urban,2785.0,2,2,2016,1,No,16.26,Fair,520400.0
+Los Angeles,Suburb,2653.0,2,3,1962,1,No,9.39,Excellent,478900.0
+Houston,Suburb,2905.0,2,1,1996,2,No,8.91,Good,518900.0
+Houston,Rural,3658.0,4,2,1999,0,Yes,11.99,Good,684900.0
+Houston,Rural,2954.0,1,3,1975,3,Yes,0.52,Fair,534300.0
+New York,Urban,1660.0,2,3,1952,3,No,14.27,Fair,319100.0
+Houston,Downtown,2499.0,4,2,2000,1,No,14.85,Good,662000.0
+Phoenix,Urban,3812.0,2,3,1989,2,No,25.96,Good,675100.0
+Los Angeles,Downtown,4462.375,3,3,2017,2,Yes,13.73,Good,813550.0
+Chicago,Suburb,1601.0,2,1,1985,2,Yes,11.22,Fair,284200.0
+Phoenix,Rural,2694.0,2,1,2000,0,No,29.85,Good,421700.0
+Phoenix,Urban,834.0,5,1,1950,1,No,17.35,Fair,215800.0
+Houston,Urban,2943.0,3,1,1982,1,No,14.44,Good,497900.0
+New York,Downtown,2061.0,1,1,1956,1,No,15.13,Good,327900.0
+Los Angeles,Downtown,4039.0,2,1,2001,0,Yes,24.37,Fair,684000.0
+New York,Urban,1880.0,1,2,1960,1,Yes,10.55,Good,321200.0
+Los Angeles,Downtown,1149.0,3,1,1986,3,Yes,11.98,Poor,233100.0
+Los Angeles,Urban,2123.0,2,3,1963,1,Yes,22.8,Good,374200.0
+New York,Urban,920.0,5,2,1995,1,Yes,2.65,Good,296600.0
+Phoenix,Urban,3101.0,4,3,1959,1,Yes,26.02,Poor,540800.0
+Los Angeles,Suburb,848.0,5,1,1973,0,No,13.19,Excellent,221700.0
+New York,Downtown,2523.0,5,1,2010,3,No,17.65,Good,521500.0
+Los Angeles,Rural,838.0,4,3,1967,3,Yes,22.85,Excellent,234000.0
+Chicago,Rural,2244.0,4,3,1958,2,Yes,8.35,Fair,454700.0
+Phoenix,Downtown,3815.0,4,3,1966,2,Yes,26.76,Excellent,647400.0
+Houston,Urban,2789.0,2,2,2007,3,No,29.39,Fair,463300.0
+Los Angeles,Rural,1809.0,1,1,1962,1,No,15.08,Good,276800.0
+Chicago,Rural,2475.0,1,3,1999,1,No,28.14,Excellent,408800.0
+Houston,Downtown,2514.0,4,1,1955,1,No,0.53,Fair,517500.0
+Houston,Rural,2878.0,5,3,1986,0,Yes,26.88,Poor,564500.0
+Los Angeles,Urban,1407.0,3,1,1985,1,No,9.68,Good,287900.0
+New York,Downtown,2974.0,4,2,2020,0,Yes,9.69,Good,594900.0
+Los Angeles,Urban,517.375,5,1,1974,3,No,7.23,Good,162000.0
+Chicago,Rural,1996.0,5,3,1960,1,No,9.85,Poor,436600.0
+Houston,Rural,2109.0,2,1,1993,1,No,6.8,Good,364400.0
+Los Angeles,Urban,3007.0,2,2,1963,2,No,27.22,Fair,505200.0
+New York,Suburb,2518.0,1,2,1978,3,Yes,27.02,Excellent,397600.0
+Los Angeles,Rural,1376.0,1,1,2023,1,Yes,3.52,Good,271600.0
+Phoenix,Suburb,1712.0,3,3,1999,0,Yes,4.71,Good,399600.0
+New York,Rural,2659.0,3,2,1954,3,Yes,25.93,Fair,436300.0
+Chicago,Suburb,2437.0,3,2,2021,2,Yes,12.27,Excellent,464700.0
+Houston,Suburb,2037.0,3,1,2018,3,Yes,5.49,Good,410900.0
+Los Angeles,Suburb,2115.0,5,2,2006,0,Yes,15.56,Excellent,439200.0
+New York,Urban,3057.0,5,2,1975,2,No,12.79,Fair,578700.0
+Phoenix,Suburb,2086.0,1,3,1955,0,Yes,6.97,Good,376500.0
+New York,Suburb,2430.0,2,3,1965,3,No,21.76,Good,424900.0
+Phoenix,Suburb,4236.0,2,3,2009,2,Yes,19.12,Poor,704800.0
+Chicago,Rural,1361.0,4,1,1961,0,No,3.44,Good,307100.0
+Houston,Downtown,3589.0,2,1,1974,2,No,15.15,Excellent,813550.0
+Phoenix,Rural,4462.375,5,3,1979,2,Yes,12.52,Good,348800.0
+Chicago,Downtown,517.375,4,3,1960,2,No,21.12,Fair,114750.0
+Phoenix,Rural,2647.0,5,2,1966,3,No,27.17,Fair,458600.0
+Phoenix,Urban,2499.0,2,3,1975,3,Yes,24.25,Fair,673500.0
+Los Angeles,Suburb,3491.0,4,2,1972,1,Yes,8.6,Good,669500.0
+Chicago,Urban,2668.0,1,2,2005,0,No,26.43,Fair,435600.0
+Chicago,Suburb,2107.0,3,3,2001,1,Yes,25.09,Good,415900.0
+Chicago,Suburb,3146.0,2,2,1997,2,Yes,27.91,Fair,525000.0
+Phoenix,Suburb,1721.0,2,2,1969,1,Yes,14.03,Good,302900.0
+Houston,Urban,2881.0,2,2,1951,3,Yes,23.17,Good,484700.0
+Chicago,Suburb,2904.0,4,2,1980,2,No,17.95,Good,555300.0
+Phoenix,Urban,3348.0,1,3,1976,2,No,9.66,Good,558300.0
+Los Angeles,Downtown,2499.0,5,1,1951,0,Yes,29.84,Excellent,780000.0
+Houston,Rural,2814.0,1,1,1953,0,No,1.63,Good,464400.0
+Los Angeles,Rural,2093.0,4,2,1962,2,Yes,5.29,Fair,450200.0
+Houston,Suburb,2480.0,2,2,1984,2,Yes,26.83,Good,417100.0
+Phoenix,Urban,1085.0,3,2,2021,1,Yes,2.29,Excellent,295800.0
+New York,Rural,1944.0,2,1,2015,2,Yes,26.66,Fair,366100.0
+Houston,Urban,2173.0,5,2,1955,3,No,21.6,Fair,409000.0
