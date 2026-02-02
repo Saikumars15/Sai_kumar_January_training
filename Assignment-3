@@ -1,0 +1,26 @@
+Assignment 03: Linear Regression
+Dataset
+* Download a suitable dataset from Kaggle (atleast entries should be greater than 1k
+* Understand the dataset and identify the target (output) variable
+1. Data Cleaning
+2. Exploratory Data Analysis (EDA)
+* Visualize relationships between variables
+* Understand patterns, check for multicollinearity
+
+3. Data Split
+* Split dataset into training (70-80%) and testing (20-30%) sets
+
+4. Linear Regression Model
+* Build a Linear Regression model
+* Train using the training data
+* Make predictions on test data
+
+5. Model Evaluation
+* Use metrics: Mean Squared Error (MSE) and R² score
+* Interpret results:
+    - Lower MSE = better fit
+    - R² closer to 1 = better fit
+
+6. Interpretation & Conclusion
+* Explain relationship between input features and target variable (check coefficients)
+* mentioned  all details in a proper way in git readme file
